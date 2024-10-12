@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc371",
+    "title": "AtCoder Beginner Contest 371",
+    "url": "https://atcoder.jp/contests/abc371"
+  },
+  "tasks": [
+    {
+      "id": "abc371_a",
+      "label": "A",
+      "title": "Jiro",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc371_b",
+      "label": "B",
+      "title": "Taro",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc371_c",
+      "label": "C",
+      "title": "Make Isomorphic",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc371_d",
+      "label": "D",
+      "title": "1D Country",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc371_e",
+      "label": "E",
+      "title": "I Hate Sigma Problems",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc371_f",
+      "label": "F",
+      "title": "Takahashi in Narrow Road",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc371_g",
+      "label": "G",
+      "title": "Lexicographically Smallest Permutation",
+      "url": "https://atcoder.jp/contests/abc371/tasks/abc371_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
