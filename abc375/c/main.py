@@ -1,4 +1,5 @@
-# TLE解答。
+# 本番TLE→復習でAC
+# 本質としては外側から内側へ狭まっていくうちに、時計回りに回しまくる
 
 N = int(input())
 A = []
@@ -6,34 +7,42 @@ for _ in range(N):
     A.append(list(input()))
 
 # 2次元配列の回転の関数は使えるかも。Pythonだとコードが楽。
+# WAポイント！破壊的処理に注意！list.reverse()を使うとやられます
+# あと、reversed()はイテレータを返すので注意。
 def kaiten(list2d, degrees=1):
     degrees = degrees % 4
     if degrees == 1:
-        list2d.reverse()
+        ans = (list(reversed(list2d)))
         # 行と列を転置する方法
-        list2d = [list(x) for x in zip(*list2d)]
+        ans = [list(x) for x in zip(*ans)]
     elif degrees == 3:
         list2d = [list(x) for x in zip(*list2d)]
-        list2d.reverse()
+        ans = list(reversed(list2d))
     elif degrees == 2:
-        list2d.reverse()
-        list2d = [reversed(x) for x in list2d]
+        list2d = [list(reversed(x)) for x in list2d]
+        ans = list(reversed(list2d))
     else:
-        pass
+        return list2d
 
-    return list2d
+    return ans
 
-# 結局は90度回転を何回かやるだけ。
-for i in range(N // 2):
-    kaiten_results = kaiten([l[i:N-i] for l in A[i:N-i]])
-    for j, result in enumerate(kaiten_results):
-        A[i + j][i:N-i] = result
+# assert文を書くのはテストケース側でREと判定できるからアリかも
+assert kaiten([[1, 2], [3, 4]], 2) == [[4, 3], [2, 1]]
 
-for ans in A:
-    print("".join(ans))
+# あらかじめ4回転分のリストを作っておく
+lists_turning = []
+for i in range(4):
+    lists_turning.append(kaiten(A, i))
 
-"""
-見直すべきポイント
-回転を何度もやると遅くなるので、少なくするべき？
-はじめに4回転分作っておいて、座標に応じて選ぶのがGoodかな？
-"""
+ans = []
+
+for i in range(N):
+    gyou = []
+    for j in range(N):
+        # 何段階内側へ入っているかを計算して、必要になる回転数を取り出す
+        # min(min(i, N-i-1), min(j, N-j-1) （トリプルミニマム）はいらない
+        gyou.append(lists_turning[(min(i, N-i-1, j, N-j-1) + 1) % 4][i][j])
+
+    ans.append("".join(gyou))
+
+print("\n".join(ans))
