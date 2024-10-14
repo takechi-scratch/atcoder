@@ -34,15 +34,10 @@ lists_turning = []
 for i in range(4):
     lists_turning.append(kaiten(A, i))
 
-ans = []
-
 for i in range(N):
-    gyou = []
     for j in range(N):
         # 何段階内側へ入っているかを計算して、必要になる回転数を取り出す
         # min(min(i, N-i-1), min(j, N-j-1) （トリプルミニマム）はいらない
-        gyou.append(lists_turning[(min(i, N-i-1, j, N-j-1) + 1) % 4][i][j])
+        print(lists_turning[(min(i, N-i-1, j, N-j-1) + 1) % 4][i][j], end="")
 
-    ans.append("".join(gyou))
-
-print("\n".join(ans))
+    print("")
