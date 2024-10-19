@@ -1,4 +1,5 @@
-# N = int(input())
+# かなりのゴリ押しコード。
+# 右か左かで操作を分け、左回り、右回りを1回ずつシミュレーション。
 N, Q = [int(x) for x in input().split()]
 sizi = []
 
@@ -20,6 +21,7 @@ for i in range(Q):
             kyori += 1
             t = t - 1 if t > 1 else N
             if t == right:
+                # ダメだった場合は適当にでかくしておく
                 kyori = N * 2
                 break
 
