@@ -1,4 +1,4 @@
-# N = int(input())
+# そのままやるだけ。はじめにtimeを小さくしておく。
 N, C = [int(x) for x in input().split()]
 T = [int(x) for x in input().split()]
 
