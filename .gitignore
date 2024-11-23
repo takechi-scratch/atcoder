@@ -168,3 +168,6 @@ tests/
 
 # VScode files
 .vscode/
+
+# private codes
+*private*.py

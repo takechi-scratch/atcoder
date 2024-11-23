@@ -10,7 +10,8 @@ pair_lists = []
 pair = []
 skip = False
 
-# 2文字ずつ連続でできるものの個数を数える
+# 2文字ずつ連続でできるものをリストに出す
+# WAポイントかも？2
 for i in range(1, N):
     if skip:
         skip = False
@@ -24,28 +25,32 @@ for i in range(1, N):
             pair_lists.append(pair)
         pair = []
 
-pair_lists.append(pair)
+        # 本番、これ忘れた
+        if i >= 2 and A[i-1] == A[i-2]:
+            pair.append(A[i-1])
+
+if len(pair) > 0:
+    pair_lists.append(pair)
+
 
 for pair in pair_lists:
-    temp_ans = 0
-
     now_list = []
     now_set = set(now_list)
+
+    # WAポイントかも？1 しゃくとり法に近いことをしてるけど、何かがおかしいか
     for i, x in enumerate(pair):
+        # 重複しない最大の長さを更新
+        ans = max(ans, len(now_list))
         if x in now_set:
-            # WAポイント！2重ループを取り払うときに独自のやり方は間違える
-            # より長くなる解答を見落としがちなので注意
-            # 以下は誤答（と思っていたがいい線行ってるのか？）
+            # 既存の位置を調べて、そこより前は切り落とす
             pos = bisect_left(now_list, x)
-            temp_ans = max(temp_ans, i)
             now_list = now_list[pos + 1:]
             now_set = set(now_list)
 
         now_list.append(x)
         now_set.add(x)
 
-    temp_ans = max(temp_ans, len(now_list))
-    ans = max(temp_ans, ans)
+    ans = max(ans, len(now_list))
 
 print(ans * 2)
 
