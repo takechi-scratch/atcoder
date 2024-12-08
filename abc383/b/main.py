@@ -8,6 +8,7 @@ for _ in range(H):
 
 choices = []
 
+# 床の場所を選択可能としてマーク
 for i in range(H):
     for j in range(W):
         if floor[i][j] == ".":
@@ -19,6 +20,9 @@ for humidifier in combinations(choices, 2):
     x1, y1 = humidifier[0]
     x2, y2 = humidifier[1]
     temp_ans = 0
+
+    # ここでBFSっぽいことをやるのかと思ってTLEだと思ってしまった。
+    # 各マスに対してマンハッタン距離を調べれば問題なし！
     for i in range(H):
         for j in range(W):
             if floor[i][j] != ".":
@@ -30,3 +34,5 @@ for humidifier in combinations(choices, 2):
     max_ans = max(temp_ans, max_ans)
 
 print(max_ans)
+
+# （1発でACできたのはちょっと嬉しい）

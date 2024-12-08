@@ -13,6 +13,7 @@ while True:
     water = max(0, water - 1)
     if time in T:
         water += V[T.index(time)]
+        # 最後の時間になったら終了
         if T.index(time) == N - 1:
             break
 
