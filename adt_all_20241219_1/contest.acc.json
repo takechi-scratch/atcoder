@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20241219_1",
+    "title": "AtCoder Daily Training ALL 2024/12/19 16:30start",
+    "url": "https://atcoder.jp/contests/adt_all_20241219_1"
+  },
+  "tasks": [
+    {
+      "id": "abc228_a",
+      "label": "A",
+      "title": "On and Off",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc228_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc326_a",
+      "label": "B",
+      "title": "2UP3DOWN",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc326_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc249_b",
+      "label": "C",
+      "title": "Perfect String",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc249_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc329_b",
+      "label": "D",
+      "title": "Next",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc329_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc287_c",
+      "label": "E",
+      "title": "Path Graph?",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc287_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc370_c",
+      "label": "F",
+      "title": "Word Ladder",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc370_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc221_d",
+      "label": "G",
+      "title": "Online games",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc221_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc291_e",
+      "label": "H",
+      "title": "Find Permutation",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc291_e",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc269_f",
+      "label": "I",
+      "title": "Numbered Checker",
+      "url": "https://atcoder.jp/contests/adt_all_20241219_1/tasks/abc269_f",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
