@@ -1,5 +1,6 @@
-# WA解答。
+# 本番WA→解説AC
 # 木の問題。やったことがなかったので要復習。
+# 実際はグラフの特徴をつかめばOKかな？
 
 N = int(input())
 sides = [[] for _ in range(N)]
@@ -8,26 +9,16 @@ for _ in range(N - 1):
     sides[u].append(v)
     sides[v].append(u)
 
-ans = N
+# 初期値の設定は丁寧に。
+max_yuki = 3
 for root in range(N):
-    x = len(sides[root])
-    y = 10 ** 8
-    y_yobi = -1
-    for i in sides[root]:
-        nobaseru = len(sides[i]) - 1
-        if nobaseru < y:
-            if y_yobi == -1:
-                y_yobi = nobaseru
-            else:
-                y = max(y_yobi, nobaseru)
-                y_yobi = min(y_yobi, nobaseru)
+    full_x = len(sides[root])
+    # xのそれぞれについて、何本yを伸ばせるかリスト化
+    ys = [len(sides[i]) - 1 for i in sides[root]]
+    ys.sort(reverse=True)
 
-    if y_yobi == -1:
-        y_yobi = 10 ** 8
+    # xが増える→yは減る（そこまでのysの最小値）、その中での最大をとる
+    for x in range(1, full_x + 1):
+        max_yuki = max(max_yuki, 1 + x * (1 + ys[x - 1]))
 
-    # ユ木でXをそのまま残すものと、1個消すものを挙げている。
-    # 実際は全て消すまでやらなければいけない！
-    # XごとのYの値を列挙してソートするのがGood。
-    ans = min(ans, N - ((min(y, y_yobi) + 1) * x + 1), N - (y + 1) * (x - 1) - 1)
-
-print(ans)
+print(N - max_yuki)
