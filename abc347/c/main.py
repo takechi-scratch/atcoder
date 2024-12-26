@@ -1,4 +1,4 @@
-# WA解法。週の端同士にあるものを判定できない？
+# 後日・解説AC
 
 N, A, B = [int(x) for x in input().split()]
 D = [int(x) for x in input().split()]
@@ -6,9 +6,18 @@ D = [int(x) for x in input().split()]
 for i, x in enumerate(D):
     # あまりだけ考える
     D[i] = x % (A + B)
-    # いわゆる「2周する」ってやつ
-    # if D[i] > (A + B) // 2:
-    #     D[i] -= A + B
 
 D.sort()
-print("Yes" if D[-1] - D[0] < A else "No")
+
+# 端だけ見てOK
+if D[-1] - D[0] < A:
+    print("Yes")
+    exit()
+
+for i in range(1, N):
+    # 区切りをどこかに入れて、そのスタートから前（+1週間）での差でもチェック
+    if D[i - 1] + (A + B) - D[i] < A:
+        print("Yes")
+        break
+else:
+    print("No")
