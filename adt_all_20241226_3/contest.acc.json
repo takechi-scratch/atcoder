@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20241226_3",
+    "title": "AtCoder Daily Training ALL 2024/12/26 20:30start",
+    "url": "https://atcoder.jp/contests/adt_all_20241226_3"
+  },
+  "tasks": [
+    {
+      "id": "abc332_a",
+      "label": "A",
+      "title": "Online Shopping",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc332_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc255_a",
+      "label": "B",
+      "title": "You should output ARC, though this is ABC.",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc255_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc309_b",
+      "label": "C",
+      "title": "Rotate",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc309_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc307_b",
+      "label": "D",
+      "title": "racecar",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc307_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc254_c",
+      "label": "E",
+      "title": "K Swap",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc254_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc360_c",
+      "label": "F",
+      "title": "Move It",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc360_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc328_d",
+      "label": "G",
+      "title": "Take ABC",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc328_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc342_e",
+      "label": "H",
+      "title": "Last Train",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc342_e",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc277_f",
+      "label": "I",
+      "title": "Sorting a Matrix",
+      "url": "https://atcoder.jp/contests/adt_all_20241226_3/tasks/abc277_f",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
