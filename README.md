@@ -8,6 +8,6 @@ takechiが書いたAtCoderの解答コードです。
 ## ライセンス
 MITライセンスで公開しています。利用する際は、ライセンスファイルをご確認ください。
 
-## 製作者
-- [@taketii (AtCoder)](https://atcoder.jp/users/taketii) 茶色（2024年10月13日現在）
+## 製作者について
+- [@taketii (AtCoder)](https://atcoder.jp/users/taketii) 緑色（2024年12月28日現在）
 - [@takechi-scratch (Scratch)](https://scratch.mit.edu/users/takechi-scratch/) （宣伝です）
