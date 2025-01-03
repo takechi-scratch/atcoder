@@ -1,3 +1,5 @@
+# 実装中。重すぎて完成できず…
+
 from sortedcontainers import SortedList
 
 H, W, Q = [int(x) for x in input().split()]
