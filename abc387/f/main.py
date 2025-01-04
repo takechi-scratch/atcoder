@@ -70,6 +70,7 @@ class DSU:
 
 
 # ----------------------------------
+# 結局完成できず。
 
 N, M = [int(x) for x in input().split()]
 A = [int(x) for x in input().split()]
