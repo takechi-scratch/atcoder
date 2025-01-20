@@ -1,4 +1,5 @@
 # WA解答
+# 嘘解法をずっと試していたっぽい。
 
 from sortedcontainers import SortedList
 
