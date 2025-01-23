@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20250123_3",
+    "title": "AtCoder Daily Training ALL 2025/01/23 20:30start",
+    "url": "https://atcoder.jp/contests/adt_all_20250123_3"
+  },
+  "tasks": [
+    {
+      "id": "abc344_a",
+      "label": "A",
+      "title": "Spoiler",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc344_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc242_a",
+      "label": "B",
+      "title": "T-shirt",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc242_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc337_b",
+      "label": "C",
+      "title": "Extended ABC",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc337_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc284_b",
+      "label": "D",
+      "title": "Multi Test Cases",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc284_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc227_c",
+      "label": "E",
+      "title": "ABC conjecture",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc227_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc374_c",
+      "label": "F",
+      "title": "Separated Lunch",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc374_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc299_d",
+      "label": "G",
+      "title": "Find by Query",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc299_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc362_e",
+      "label": "H",
+      "title": "Count Arithmetic Subsequences",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc362_e",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc384_f",
+      "label": "I",
+      "title": "Double Sum 2",
+      "url": "https://atcoder.jp/contests/adt_all_20250123_3/tasks/abc384_f",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
