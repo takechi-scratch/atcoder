@@ -1,3 +1,5 @@
+# TLE・WA解法。貪欲が必要らしい？
+
 N, X = [int(x) for x in input().split()]
 food = []
 for _ in range(N):

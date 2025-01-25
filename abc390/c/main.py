@@ -3,6 +3,7 @@ grid = []
 for _ in range(H):
     grid.append(list(input()))
 
+# 黒の左上と右下を調べる
 min_x = W
 max_x = -1
 min_y = H
@@ -16,6 +17,7 @@ for i in range(H):
             min_y = min(min_y, i)
             max_y = max(max_y, i)
 
+# その範囲の中に白が入ってしまっていたらアウト
 ok = True
 for i in range(min_y, max_y + 1):
     for j in range(min_x, max_x + 1):
