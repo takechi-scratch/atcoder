@@ -1,3 +1,5 @@
+# 全部確認するだけ。
+
 N, M = [int(x) for x in input().split()]
 S = []
 for _ in range(N):
@@ -8,6 +10,7 @@ for _ in range(M):
     T.append(list(input()))
 
 
+# スタートの位置を決める
 for i in range(N - M + 1):
     for j in range(N - M + 1):
         ok = True
