@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "joi2025ho",
+    "title": "JOI 2024/2025 本選 過去問",
+    "url": "https://atcoder.jp/contests/joi2025ho"
+  },
+  "tasks": [
+    {
+      "id": "joi2025ho_a",
+      "label": "A",
+      "title": "色塗り (Grid Coloring)",
+      "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025ho_b",
+      "label": "B",
+      "title": "勇者ビ太郎 2 (Bitaro the Brave 2)",
+      "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025ho_c",
+      "label": "C",
+      "title": "ミ・テレフェリコ (Mi Teleférico)",
+      "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025ho_d",
+      "label": "D",
+      "title": "長いだけのネクタイ 2 (Just Long Neckties 2)",
+      "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025ho_e",
+      "label": "E",
+      "title": "郵便局 (Post Office)",
+      "url": "https://atcoder.jp/contests/joi2025ho/tasks/joi2025ho_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
