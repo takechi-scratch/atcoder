@@ -1,3 +1,5 @@
+# WA解答。部分点すら取れなかった
+
 from collections import defaultdict
 
 N = int(input())
