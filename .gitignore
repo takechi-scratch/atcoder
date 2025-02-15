@@ -171,3 +171,6 @@ tests/
 
 # private codes
 *private*.py
+
+# running contests
+ahc043/
