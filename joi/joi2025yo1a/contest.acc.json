@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "joi2025yo1a",
+    "title": "JOI 2024/2025 一次予選 (第1回) 過去問",
+    "url": "https://atcoder.jp/contests/joi2025yo1a"
+  },
+  "tasks": [
+    {
+      "id": "joi2025_yo1a_a",
+      "label": "A",
+      "title": "鉛筆 2 (Pencils 2)",
+      "url": "https://atcoder.jp/contests/joi2025yo1a/tasks/joi2025_yo1a_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2025_yo1a_b",
+      "label": "B",
+      "title": "散歩 (Walking)",
+      "url": "https://atcoder.jp/contests/joi2025yo1a/tasks/joi2025_yo1a_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2025_yo1a_c",
+      "label": "C",
+      "title": "OIJ (OIJ)",
+      "url": "https://atcoder.jp/contests/joi2025yo1a/tasks/joi2025_yo1a_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2025_yo1a_d",
+      "label": "D",
+      "title": "どら焼き (Dorayaki)",
+      "url": "https://atcoder.jp/contests/joi2025yo1a/tasks/joi2025_yo1a_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

@@ -171,6 +171,7 @@ tests/
 
 # private codes
 *private*.py
+memo.md
 
 # running contests
 ahc043/
