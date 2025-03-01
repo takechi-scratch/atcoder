@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc043",
+    "title": "RECRUIT Nihonbashi Half Marathon 2025 Winter（AtCoder Heuristic Contest 043）",
+    "url": "https://atcoder.jp/contests/ahc043"
+  },
+  "tasks": [
+    {
+      "id": "ahc043_a",
+      "label": "A",
+      "title": "Railway Company",
+      "url": "https://atcoder.jp/contests/ahc043/tasks/ahc043_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
