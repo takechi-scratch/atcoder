@@ -1,3 +1,5 @@
+# しゃくとりで実装（もっとスマートなやり方はあるらしい…）
+
 from collections import defaultdict
 
 N = int(input())
