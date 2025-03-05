@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc338",
+    "title": "AtCoder Beginner Contest 338",
+    "url": "https://atcoder.jp/contests/abc338"
+  },
+  "tasks": [
+    {
+      "id": "abc338_a",
+      "label": "A",
+      "title": "Capitalized?",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc338_b",
+      "label": "B",
+      "title": "Frequency",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc338_c",
+      "label": "C",
+      "title": "Leftover Recipes",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc338_d",
+      "label": "D",
+      "title": "Island Tour",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc338_e",
+      "label": "E",
+      "title": "Chords",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc338_f",
+      "label": "F",
+      "title": "Negative Traveling Salesman",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc338_g",
+      "label": "G",
+      "title": "evall",
+      "url": "https://atcoder.jp/contests/abc338/tasks/abc338_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
