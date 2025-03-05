@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abc323/tasks/abc323_b
+
 N = int(input())
 A = [input() for _ in range(N)]
 

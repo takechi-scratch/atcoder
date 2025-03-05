@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20250305_3",
+    "title": "AtCoder Daily Training ALL 2025/03/05 20:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20250305_3"
+  },
+  "tasks": [
+    {
+      "id": "abc239_a",
+      "label": "A",
+      "title": "Horizon",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc239_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc248_a",
+      "label": "B",
+      "title": "Lacked Number",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc248_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc323_b",
+      "label": "C",
+      "title": "Round-Robin Tournament",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc323_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc270_b",
+      "label": "D",
+      "title": "Hammer",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc270_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc275_c",
+      "label": "E",
+      "title": "Counting Squares",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc275_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc390_c",
+      "label": "F",
+      "title": "Paint to make a rectangle",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc390_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc236_d",
+      "label": "G",
+      "title": "Dance",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc236_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc372_e",
+      "label": "H",
+      "title": "K-th Largest Connected Components",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc372_e",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc235_f",
+      "label": "I",
+      "title": "Variety of Digits",
+      "url": "https://atcoder.jp/contests/adt_all_20250305_3/tasks/abc235_f",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
