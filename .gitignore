@@ -164,7 +164,9 @@ cython_debug/
 # atcoder testcases
 *.in
 *.out
-tests/
+tests/*
+!selftest-*.in
+!selftest-*.out
 
 # VScode files
 .vscode/
