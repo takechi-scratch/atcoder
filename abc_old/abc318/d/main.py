@@ -1,4 +1,4 @@
-# TLE解法。
+# 直す！！
 
 import sys
 from itertools import combinations
