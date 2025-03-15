@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc397",
+    "title": "OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 397)",
+    "url": "https://atcoder.jp/contests/abc397"
+  },
+  "tasks": [
+    {
+      "id": "abc397_a",
+      "label": "A",
+      "title": "Thermometer",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc397_b",
+      "label": "B",
+      "title": "Ticket Gate Log",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc397_c",
+      "label": "C",
+      "title": "Variety Split Easy",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc397_d",
+      "label": "D",
+      "title": "Cubes",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc397_e",
+      "label": "E",
+      "title": "Path Decomposition of a Tree",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc397_f",
+      "label": "F",
+      "title": "Variety Split Hard",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc397_g",
+      "label": "G",
+      "title": "Maximize Distance",
+      "url": "https://atcoder.jp/contests/abc397/tasks/abc397_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
