@@ -1,3 +1,5 @@
+# WA解法。cubesが巨大になる場合がある。
+
 from math import ceil
 N = int(input())
 

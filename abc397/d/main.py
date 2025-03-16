@@ -3,9 +3,11 @@ N = int(input())
 
 
 for diff in range(1, ceil(N ** (1 / 3))):
+    # Nはa-bの倍数になっているはずなので、先にチェック
     if N % diff != 0:
         continue
 
+    # 二分探索でxの値を求める
     more, less = 1, 10 ** 18
     while less - more > 1:
         mid = (more + less) // 2
