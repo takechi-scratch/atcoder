@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc044",
+    "title": "AtCoder Heuristic Contest 044",
+    "url": "https://atcoder.jp/contests/ahc044"
+  },
+  "tasks": [
+    {
+      "id": "ahc044_a",
+      "label": "A",
+      "title": "Cleaning Up",
+      "url": "https://atcoder.jp/contests/ahc044/tasks/ahc044_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
