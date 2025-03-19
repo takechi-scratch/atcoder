@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abc323/tasks/abc323_c
+
 N, M = [int(x) for x in input().split()]
 A = [int(x) for x in input().split()]
 S = [input() for _ in range(N)]

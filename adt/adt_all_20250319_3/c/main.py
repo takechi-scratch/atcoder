@@ -1,4 +1,4 @@
-# 全てシミュレーションする。（二重ループで、同じ値ならcontinueに注意）
+# https://atcoder.jp/contests/abc282/tasks/abc282_b
 
 N, M = [int(x) for x in input().split()]
 S = [input() for _ in range(N)]
@@ -16,5 +16,4 @@ for x in range(N):
         else:
             ans += 1
 
-# (x, y) と (y, x) が別で数えられているので2で割る
 print(ans // 2)

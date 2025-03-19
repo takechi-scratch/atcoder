@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20250319_3",
+    "title": "AtCoder Daily Training ALL 2025/03/19 20:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20250319_3"
+  },
+  "tasks": [
+    {
+      "id": "abc390_a",
+      "label": "A",
+      "title": "12435",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc390_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc300_a",
+      "label": "B",
+      "title": "N-choice question",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc300_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc282_b",
+      "label": "C",
+      "title": "Let's Get a Perfect Score",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc282_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc330_b",
+      "label": "D",
+      "title": "Minimize Abs 1",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc330_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc323_c",
+      "label": "E",
+      "title": "World Tour Finals",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc323_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc309_c",
+      "label": "F",
+      "title": "Medicine",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc309_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc225_d",
+      "label": "G",
+      "title": "Play Train",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc225_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc334_e",
+      "label": "H",
+      "title": "Christmas Color Grid 1",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc334_e",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc307_f",
+      "label": "I",
+      "title": "Virus 2",
+      "url": "https://atcoder.jp/contests/adt_all_20250319_3/tasks/abc307_f",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
