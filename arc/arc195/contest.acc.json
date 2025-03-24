@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "arc195",
+    "title": "AtCoder Regular Contest 195 (Div. 2)",
+    "url": "https://atcoder.jp/contests/arc195"
+  },
+  "tasks": [
+    {
+      "id": "arc195_a",
+      "label": "A",
+      "title": "Twice Subsequence",
+      "url": "https://atcoder.jp/contests/arc195/tasks/arc195_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc195_b",
+      "label": "B",
+      "title": "Uniform Sum",
+      "url": "https://atcoder.jp/contests/arc195/tasks/arc195_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc195_c",
+      "label": "C",
+      "title": "Hamiltonian Pieces",
+      "url": "https://atcoder.jp/contests/arc195/tasks/arc195_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc195_d",
+      "label": "D",
+      "title": "Swap and Erase",
+      "url": "https://atcoder.jp/contests/arc195/tasks/arc195_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc195_e",
+      "label": "E",
+      "title": "Random Tree Distance",
+      "url": "https://atcoder.jp/contests/arc195/tasks/arc195_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
