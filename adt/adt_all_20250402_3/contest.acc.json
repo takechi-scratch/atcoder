@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20250402_3",
+    "title": "AtCoder Daily Training ALL 2025/04/02 20:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20250402_3"
+  },
+  "tasks": [
+    {
+      "id": "abc337_a",
+      "label": "A",
+      "title": "Scoreboard",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc337_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc276_a",
+      "label": "B",
+      "title": "Rightmost",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc276_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc377_b",
+      "label": "C",
+      "title": "Avoid Rook Attack",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc377_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc245_b",
+      "label": "D",
+      "title": "Mex",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc245_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc317_c",
+      "label": "E",
+      "title": "Remembering the Days",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc317_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc388_c",
+      "label": "F",
+      "title": "Various Kagamimochi",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc388_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc275_d",
+      "label": "G",
+      "title": "Yet Another Recursive Function",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc275_d",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc389_e",
+      "label": "H",
+      "title": "Square Price",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc389_e",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc373_f",
+      "label": "I",
+      "title": "Knapsack with Diminishing Values",
+      "url": "https://atcoder.jp/contests/adt_all_20250402_3/tasks/abc373_f",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
