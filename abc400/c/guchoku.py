@@ -1,3 +1,5 @@
+# 愚直解（平方根の誤差だったので役に立たなかった...）
+
 from bisect import bisect_right
 
 ans = set()

@@ -1,3 +1,6 @@
+# 最短経路のbfsでつまずくのが嫌だったのでダイクストラ風に
+# 実行時間はかなり厳しい（1500msくらい）
+
 import heapq
 
 H, W = [int(x) for x in input().split()]
@@ -31,6 +34,7 @@ while len(bfs) > 0:
                 heapq.heappush(bfs, (now_cost, (ni, nj)))
 
         else:
+            # 実際に壁を壊すことはせずに、壊せるところの「最小コスト」を1増やして更新
             if min_costs[ni][nj] > now_cost + 1:
                 min_costs[ni][nj] = now_cost + 1
                 heapq.heappush(bfs, (now_cost + 1, (ni, nj)))

@@ -1,3 +1,5 @@
+# Pythonなら実際に計算してOK
+
 N, M = [int(x) for x in input().split()]
 X = 0
 for i in range(M + 1):

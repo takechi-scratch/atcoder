@@ -1,3 +1,5 @@
+# WA解答。今のところ原因不明（1ACなのでたぶん考察ミス）
+
 from math import isqrt
 from bisect import bisect_right
 
