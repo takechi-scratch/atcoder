@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc358",
+    "title": "AtCoder Beginner Contest 358",
+    "url": "https://atcoder.jp/contests/abc358"
+  },
+  "tasks": [
+    {
+      "id": "abc358_a",
+      "label": "A",
+      "title": "Welcome to AtCoder Land",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_b",
+      "label": "B",
+      "title": "Ticket Counter",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_c",
+      "label": "C",
+      "title": "Popcorn",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_d",
+      "label": "D",
+      "title": "Souvenirs",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_e",
+      "label": "E",
+      "title": "Alphabet Tiles",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_f",
+      "label": "F",
+      "title": "Easiest Maze",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_g",
+      "label": "G",
+      "title": "AtCoder Tour",
+      "url": "https://atcoder.jp/contests/abc358/tasks/abc358_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

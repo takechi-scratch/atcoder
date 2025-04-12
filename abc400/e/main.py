@@ -1,13 +1,16 @@
-# WA解答。今のところ原因不明（1ACなのでたぶん考察ミス）
+# 解説AC。要復習
+# 答えの全列挙→にぶたんの流れはOK。
 
 from math import isqrt
 from bisect import bisect_right
 
+# 大きな数の平方根はisqrtで
 Q = int(input())
 query = [isqrt(int(input())) for _ in range(Q)]
 max_query = max(query)
 
-prime_max = int(isqrt(max_query))
+# テンプレコード、エラトステネスのふるい
+prime_max = max_query
 prime_kouho = set(range(2, prime_max))
 for i in range(2, isqrt(prime_max) + 1):
     if i not in prime_kouho:
@@ -20,30 +23,27 @@ for i in range(2, isqrt(prime_max) + 1):
 
 primes = list(sorted(prime_kouho))
 
-fh_nums = []
+# primesの上限値に注意。MAX^2 * 1^2 みたいなのがあるので MAX ** 1/4 ではダメ
+# WAポイント！素数の二重ループはTLEのおそれ
+# 整数問題ときたら「倍数」でのループに目を向ける
 
-# print(len(primes))
-for i in range(len(primes)):
-    i_pow = 1
+factor_counts = [0] * max_query
+
+for x in primes:
+    cur = x - 1
     while True:
-        a = primes[i] ** i_pow
-
-        if a > max_query:
+        if cur >= max_query:
             break
 
-        for j in range(i + 1, len(primes)):
-            j_pow = 1
-            while True:
-                if a * (primes[j] ** j_pow) > max_query:
-                    break
+        factor_counts[cur] += 1
+        cur += x
 
-                fh_nums.append(a * (primes[j] ** j_pow))
 
-                j_pow += 1
+fh_nums = []
+for i, x in enumerate(factor_counts):
+    if x == 2:
+        fh_nums.append(i + 1)
 
-        i_pow += 1
-
-fh_nums.sort()
 # print(len(fh_nums))
 
 for A in query:
