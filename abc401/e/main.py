@@ -1,3 +1,6 @@
+# WA解答。おそらく考え方はあってそう
+# 「困難は分割せよ」は正しかったのかも（判定と最小計算を分ける）
+
 # https://github.com/shakayami/ACL-for-python/blob/master/dsu.py
 class dsu():
     n=1
