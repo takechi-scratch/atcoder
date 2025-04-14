@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc351",
+    "title": "AtCoder Beginner Contest 351",
+    "url": "https://atcoder.jp/contests/abc351"
+  },
+  "tasks": [
+    {
+      "id": "abc351_a",
+      "label": "A",
+      "title": "The bottom of the ninth",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_b",
+      "label": "B",
+      "title": "Spot the Difference",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_c",
+      "label": "C",
+      "title": "Merge the balls",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_d",
+      "label": "D",
+      "title": "Grid and Magnet",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_e",
+      "label": "E",
+      "title": "Jump Distance Sum",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_f",
+      "label": "F",
+      "title": "Double Sum",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc351_g",
+      "label": "G",
+      "title": "Hash on Tree",
+      "url": "https://atcoder.jp/contests/abc351/tasks/abc351_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
