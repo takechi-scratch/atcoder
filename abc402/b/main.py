@@ -1,5 +1,6 @@
 Q = int(input())
 queue = []
+# 何人入ったかをメモ
 in_count = 0
 
 for _ in range(Q):
