@@ -1,4 +1,5 @@
 # Python用の安全なローリングハッシュを作りました！スライスでの取得に対応。
+# バグ: get関数で
 
 import random
 
@@ -35,13 +36,13 @@ class RollingHash:
             prefix[i + 1] = self._mod(self._multiply(prefix[i], b) + c)
             power[i + 1] = self._mod(self._multiply(power[i], b))
 
-    def get(self, l: int = 0, r: int = -1) -> int:
+    def get(self, l: int = 0, r: int = 0) -> int:
         """Returnss the hash value of the substring S[l:r]. O(1)"""
-        if r < 0: r += self.n
-        if not 0 <= l <= r <= self.n:
+        if r <= 0: r += self.n
+        if not 0 <= l < r <= self.n:
             raise IndexError("index out of range")
 
-        return self._mod(self.prefix[r] - self.power[r - l] * self.prefix[l])
+        return self._mod(self.prefix[r] - self._multiply(self.power[r - l], self.prefix[l]))
 
     def _multiply(self, a: int, b: int) -> int:
         """Multiplies two numbers under modulo."""
