@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "caddi2018b",
+    "title": "CADDi 2018 for Beginners",
+    "url": "https://atcoder.jp/contests/caddi2018b"
+  },
+  "tasks": [
+    {
+      "id": "caddi2018b_a",
+      "label": "A",
+      "title": "12/22",
+      "url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "caddi2018b_b",
+      "label": "B",
+      "title": "AtCoder Alloy",
+      "url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "caddi2018_a",
+      "label": "C",
+      "title": "Product and GCD",
+      "url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "caddi2018_b",
+      "label": "D",
+      "title": "Harlequin",
+      "url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 # Python用の安全なローリングハッシュを作りました！スライスでの取得に対応。
-# バグ: get関数で
 
 import random
 
@@ -10,7 +9,7 @@ class RollingHash:
     - https://qiita.com/keymoon/items/11fac5627672a6d6a9f6
     """
     MOD = (1 << 61) - 1
-    B = random.randint(2, 1 << 30)
+    B = random.randint(2, 1 << 15)
 
     MASK30 = (1 << 30) - 1
     MASK31 = (1 << 31) - 1
@@ -79,6 +78,7 @@ class RollingHash:
             raise ValueError("this can't be set step")
 
         return self.get(item.start, item.stop)
+
 
 if __name__ == "__main__":
     print(f"{RollingHash.MOD = }")
