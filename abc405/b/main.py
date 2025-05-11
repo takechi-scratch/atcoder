@@ -1,3 +1,5 @@
+# 愚直に毎回計算して間に合う
+
 N, M = [int(x) for x in input().split()]
 A = [int(x) for x in input().split()]
 

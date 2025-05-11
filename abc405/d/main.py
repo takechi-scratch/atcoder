@@ -1,3 +1,6 @@
+# 解説通りやるだけ。
+# 全ての出口からBFSをすると間に合わない
+
 from collections import deque
 
 H, W = [int(x) for x in input().split()]
