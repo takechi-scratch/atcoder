@@ -173,6 +173,7 @@ tests/*
 
 # private codes
 *private*.py
+*private*.cpp
 memo.md
 my_problems/
 
