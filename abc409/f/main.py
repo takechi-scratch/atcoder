@@ -1,3 +1,5 @@
+# WA解法。どこかがおかしい
+
 from atcoder.dsu import DSU
 import heapq
 
@@ -32,14 +34,13 @@ for query in queries:
     if query[0] == 1:
         a, b = query[1] - 1, query[2] - 1
         nodes.append((a, b))
-        leader_nearest = {}
+        leader_nearest = []
         for i in range(len(nodes) - 1):
             leader = uf.leader(i)
             distance = manhattan(len(nodes) - 1, i)
-            if leader not in leader_nearest or leader_nearest[leader][0] > distance:
-                leader_nearest[leader] = (distance, i, len(nodes) - 1)
+            leader_nearest.append((distance, i, len(nodes) - 1))
 
-        for distance, i, j in leader_nearest.values():
+        for distance, i, j in leader_nearest:
             heapq.heappush(dists, (distance, i, j))
             dists_set.add((i, j))
 
@@ -59,6 +60,8 @@ for query in queries:
                 break
 
             dists_set.discard((i, j))
+            if not uf.same(i, j):
+                merges.append((i, j))
 
         print(nearest_distance)
 
