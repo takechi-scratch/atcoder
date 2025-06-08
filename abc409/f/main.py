@@ -1,10 +1,20 @@
-# WA解法。どこかがおかしい
+# 定数倍が厳しく通らない。C++への翻訳必須？
 
 from atcoder.dsu import DSU
-import heapq
+from sortedcontainers import SortedList
 
 def manhattan(i: int, j: int):
     return abs(nodes[i][0] - nodes[j][0]) + abs(nodes[i][1] - nodes[j][1])
+
+class Dist:
+    def __init__(self, i: int, j: int):
+        self.dist = manhattan(i, j)
+        self.i = i
+        self.j = j
+
+    def __lt__(self, other):
+        assert isinstance(other, Dist)
+        return self.dist < other.dist
 
 N, Q = [int(x) for x in input().split()]
 nodes = []
@@ -21,52 +31,44 @@ for _ in range(Q):
 
 uf = DSU(last_N)
 
-dists = []
-dists_set = set()
+dists = SortedList()
 for i in range(N):
     for j in range(i + 1, N):
-        dists_set.add((i, j))
-        dists.append((manhattan(i, j), i, j))
-
-heapq.heapify(dists)
+        dists.add(Dist(i, j))
 
 for query in queries:
     if query[0] == 1:
-        a, b = query[1] - 1, query[2] - 1
+        a, b = query[1], query[2]
         nodes.append((a, b))
-        leader_nearest = []
         for i in range(len(nodes) - 1):
-            leader = uf.leader(i)
-            distance = manhattan(len(nodes) - 1, i)
-            leader_nearest.append((distance, i, len(nodes) - 1))
-
-        for distance, i, j in leader_nearest:
-            heapq.heappush(dists, (distance, i, j))
-            dists_set.add((i, j))
+            dists.add(Dist(i, len(nodes) - 1))
 
     elif query[0] == 2:
-        if len(dists) == 0:
-            print(-1)
-            break
-
-        nearest_distance, i, j = heapq.heappop(dists)
-        dists_set.discard((i, j))
-        merges = []
-        merges.append((i, j))
+        nearest_distance = 10 ** 18
+        ok = False
         while len(dists) > 0:
-            distance, i, j = heapq.heappop(dists)
+            d = dists.pop(0)
+            distance, i, j = d.dist, d.i, d.j
+
+            if uf.same(i, j):
+                continue
+
             if distance > nearest_distance:
-                heapq.heappush(dists, (distance, i, j))
+                dists.add(Dist(i, j))
                 break
 
-            dists_set.discard((i, j))
-            if not uf.same(i, j):
-                merges.append((i, j))
+            if nearest_distance == 10 ** 18:
+                nearest_distance = distance
 
-        print(nearest_distance)
-
-        for i, j in merges:
             uf.merge(i, j)
+            ok = True
+
+        if not ok:
+            print(-1)
+            continue
+
+        assert nearest_distance < 10 ** 18
+        print(nearest_distance)
 
     else:
         u, v = query[1] - 1, query[2] - 1
