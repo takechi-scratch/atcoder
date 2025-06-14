@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc410",
+    "title": "AtCoder Beginner Contest 410",
+    "url": "https://atcoder.jp/contests/abc410"
+  },
+  "tasks": [
+    {
+      "id": "abc410_a",
+      "label": "A",
+      "title": "G1",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_b",
+      "label": "B",
+      "title": "Reverse Proxy",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_c",
+      "label": "C",
+      "title": "Rotatable Array",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_d",
+      "label": "D",
+      "title": "XOR Shortest Walk",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_e",
+      "label": "E",
+      "title": "Battles in a Row",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_f",
+      "label": "F",
+      "title": "Balanced Rectangles",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc410_g",
+      "label": "G",
+      "title": "Longest Chord Chain",
+      "url": "https://atcoder.jp/contests/abc410/tasks/abc410_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
