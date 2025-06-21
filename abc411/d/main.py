@@ -12,6 +12,8 @@ for query in reversed(queries):
     elif query[0] == "2" and int(query[1]) - 1 == having_pc:
         ans.append(query[2])
 
+    # WAポイント！条件をしっかりと確認。使っていない入力があったら、それはおかしい。
+    # **having_pc == int(query[1]) - 1**も必要
     elif query[0] == "1" and having_pc == int(query[1]) - 1:
         having_pc = -1
 

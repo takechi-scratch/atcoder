@@ -15,7 +15,7 @@ for i, x in enumerate(DICE):
     for y in set(x):
         queue.add((y, i, x.count(y)))
 
-    all_min = max(all_min, min(set(x)))
+    all_min = max(all_min, min(x))
 
 able_max = list(x for x in sorted(able_max) if x >= all_min)
 
@@ -38,7 +38,8 @@ for now_max in able_max[1:]:
     while len(queue) > 0 and queue[0][0] <= now_max:
         count = queue.pop(0)
         before_ok = now_ok[count[1]]
-        bunsi = bunsi // before_ok * (before_ok + count[2]) % MOD
+        # WAポイント！MODでの計算時には割り算をしない！！！！！！！
+        bunsi = bunsi * pow(before_ok, -1, MOD) * (before_ok + count[2]) % MOD
 
         now_ok[count[1]] += count[2]
 
@@ -46,4 +47,4 @@ for now_max in able_max[1:]:
     before_bunsi = bunsi
 
 assert pow(bunsi * bunbo_INV, -1, MOD) == 1
-print(ans % MOD)
+print(int(ans % MOD))
