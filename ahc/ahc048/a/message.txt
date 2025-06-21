@@ -1,0 +1,68 @@
+failed reserve free space cpb: 450
+best_cpb = 400, greedy_ans.score = 490832
+executed random_solve 121 times
+modified 78469 times
+score ratio: 100.000%
+- won random method! random_ans.score / greedy_ans.score = 0.9747306614075691
+Score: 478429
+best_cpb = 425, greedy_ans.score = 425223
+executed random_solve 112 times
+modified 69218 times
+score ratio: 98.717%
++ won greedy method! greedy_ans.score / random_ans.score = 0.926508654499817
+Score: 425223
+failed reserve free space cpb: 450
+best_cpb = 350, greedy_ans.score = 793698
+executed random_solve 117 times
+modified 70020 times
+score ratio: 99.600%
+- won random method! random_ans.score / greedy_ans.score = 0.9462868748566835
+Score: 751066
+failed reserve free space cpb: 450
+best_cpb = 425, greedy_ans.score = 305708
+executed random_solve 76 times
+modified 72803 times
+score ratio: 97.022%
++ won greedy method! greedy_ans.score / random_ans.score = 0.7972065902773069
+Score: 305708
+failed reserve free space cpb: 450
+best_cpb = 350, greedy_ans.score = 359188
+executed random_solve 89 times
+modified 68958 times
+score ratio: 99.603%
++ won greedy method! greedy_ans.score / random_ans.score = 0.723979602120412
+Score: 359188
+failed reserve free space cpb: 450
+best_cpb = 400, greedy_ans.score = 316091
+executed random_solve 73 times
+modified 69043 times
+score ratio: 98.327%
++ won greedy method! greedy_ans.score / random_ans.score = 0.6233012044391509
+Score: 316091
+best_cpb = 425, greedy_ans.score = 378742
+executed random_solve 122 times
+modified 76586 times
+score ratio: 100.000%
+- won random method! random_ans.score / greedy_ans.score = 0.9094528729319695
+Score: 344448
+failed reserve free space cpb: 450
+best_cpb = 400, greedy_ans.score = 489933
+executed random_solve 125 times
+modified 73789 times
+score ratio: 100.000%
++ won greedy method! greedy_ans.score / random_ans.score = 0.8997091154833567
+Score: 489933
+failed reserve free space cpb: 450
+best_cpb = 425, greedy_ans.score = 651599
+executed random_solve 116 times
+modified 67413 times
+score ratio: 99.801%
+- won random method! random_ans.score / greedy_ans.score = 0.940349816374795
+Score: 612731
+failed reserve free space cpb: 450
+best_cpb = 350, greedy_ans.score = 375487
+executed random_solve 123 times
+modified 78943 times
+score ratio: 100.000%
+- won random method! random_ans.score / greedy_ans.score = 0.904262997121072
+Score: 339539
