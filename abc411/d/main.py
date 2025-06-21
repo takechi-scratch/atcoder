@@ -1,0 +1,18 @@
+N, Q = [int(x) for x in input().split()]
+queries = []
+for _ in range(Q):
+    queries.append(input().split())
+
+ans = []
+having_pc = -1
+for query in reversed(queries):
+    if query[0] == "3" and having_pc == -1:
+        having_pc = int(query[1]) - 1
+
+    elif query[0] == "2" and int(query[1]) - 1 == having_pc:
+        ans.append(query[2])
+
+    elif query[0] == "1" and having_pc == int(query[1]) - 1:
+        having_pc = -1
+
+print("".join(reversed(ans)))
