@@ -17,6 +17,7 @@ for i, x in enumerate(A):
         if is_black[x - 1] == is_black[x + 1] == 0:
             ans -= 1
         elif is_black[x - 1] == is_black[x + 1] == 1:
+            # なぜか+2にしていた…
             ans += 1
 
     print(ans)
