@@ -177,5 +177,9 @@ tests/*
 memo.md
 my_problems/
 
+# ahc tools
+tools/
+pahcer_config.toml
+
 # running contests
-ahc049/
+ahc050/
