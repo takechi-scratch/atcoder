@@ -32,6 +32,4 @@ ans %= MOD
 ans -= gausu_sum(N) - (N + 1)
 ans %= MOD
 
-gausu_sum(100)
-
 print(ans)
