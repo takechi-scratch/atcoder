@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc417",
+    "title": "AtCoder Beginner Contest 417",
+    "url": "https://atcoder.jp/contests/abc417"
+  },
+  "tasks": [
+    {
+      "id": "abc417_a",
+      "label": "A",
+      "title": "A Substring",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc417_b",
+      "label": "B",
+      "title": "Search and Delete",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc417_c",
+      "label": "C",
+      "title": "Distance Indicators",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc417_d",
+      "label": "D",
+      "title": "Takahashi's Expectation",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc417_e",
+      "label": "E",
+      "title": "A Path in A Dictionary",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc417_f",
+      "label": "F",
+      "title": "Random Gathering",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc417_g",
+      "label": "G",
+      "title": "Binary Cat",
+      "url": "https://atcoder.jp/contests/abc417/tasks/abc417_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
