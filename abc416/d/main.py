@@ -1,16 +1,17 @@
-# とちゅう
-
 from sortedcontainers import SortedList
 
 def solve(N: int, M: int, A: list[int], B: list[int]):
+    ans = sum(A) + sum(B)
     A.sort()
     B = SortedList(B)
     for x in reversed(A):
-        b_index = B.bisect_right(x)
-        if
-    return True
+        b_index = B.bisect_left(M - x)
+        if b_index >= len(B):
+            continue
+        ans -= M
+        del B[b_index]
 
-
+    return ans
 
 
 T = int(input())
@@ -19,8 +20,5 @@ for _ in range(T):
     A = [int(x) for x in input().split()]
     B = [int(x) for x in input().split()]
 
-    ans = solve(N, A)
-    if ans in {True, False}:
-        print("Yes" if ans else "No")
-    else:
-        print(ans)
+    ans = solve(N, M, A, B)
+    print(ans)
