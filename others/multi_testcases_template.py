@@ -10,7 +10,9 @@ for _ in range(T):
     A = [int(x) for x in input().split()]
 
     ans = solve(N, A)
-    if ans in {True, False}:
+    if ans in [True, False]:
         print("Yes" if ans else "No")
-    else:
+    elif isinstance(ans, int) or isinstance(ans, str):
         print(ans)
+    else:
+        print(*ans)

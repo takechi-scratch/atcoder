@@ -1,3 +1,6 @@
+// メモ化再帰の実装方法はしっかりチェック。
+// C++の練習もした方が良いな...。
+
 #ifndef ONLINE_JUDGE
 #define _GLIBCXX_DEBUG//上下のやつがないとTLEになるので注意
 #endif

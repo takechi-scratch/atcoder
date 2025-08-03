@@ -1,26 +1,25 @@
-# 謎の1TLE
+# DP + 累積和 + 二分探索
+# 後ろからDPを柔軟にできるようにする。
+# メモ化再帰だと遅い（1TLE）
 
 from bisect import bisect_right
-from functools import lru_cache
-import sys
-sys.setrecursionlimit(10**7)
 
 
 N = int(input())
 gifts = [tuple(int(x) for x in input().split()) for _ in range(N)]
 
-@lru_cache(maxsize=None)
-def solve(finished: int, now_point: int):
-    if finished >= N:
-        return now_point
+dp = [[None] * 1001 for _ in range(N + 1)]
+dp[-1] = list(range(1001))
 
-    if now_point <= gifts[finished][0]:
-        now_point += gifts[finished][1]
-    else:
-        now_point -= gifts[finished][2]
-        now_point = max(now_point, 0)
-
-    return solve(finished + 1, now_point)
+for i in range(N - 1, -1, -1):
+    for j in range(1001):
+        # 「1コ次」を見てから、前を更新するのを繰り返せば
+        # 後ろからのDPでもできる。
+        if j <= gifts[i][0]:
+            if j + gifts[i][1] < 1001:
+                dp[i][j] = dp[i + 1][j + gifts[i][1]]
+        else:
+            dp[i][j] = dp[i + 1][max(j - gifts[i][2], 0)]
 
 down_points_sum = [0]
 for x in gifts:
@@ -30,7 +29,7 @@ Q = int(input())
 for _ in range(Q):
     X = int(input())
     if X <= 1000:
-        print(solve(0, X))
+        print(dp[0][X])
         continue
 
     downs = bisect_right(down_points_sum, X - 1000)
@@ -39,4 +38,4 @@ for _ in range(Q):
         continue
 
     now_point = X - down_points_sum[downs]
-    print(solve(downs, now_point))
+    print(dp[downs][now_point])
