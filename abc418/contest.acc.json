@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc418",
+    "title": "AtCoder Beginner Contest 418",
+    "url": "https://atcoder.jp/contests/abc418"
+  },
+  "tasks": [
+    {
+      "id": "abc418_a",
+      "label": "A",
+      "title": "I'm a teapot",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_b",
+      "label": "B",
+      "title": "You're a teapot",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_c",
+      "label": "C",
+      "title": "Flush",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_d",
+      "label": "D",
+      "title": "XNOR Operation",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_e",
+      "label": "E",
+      "title": "Trapezium",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_f",
+      "label": "F",
+      "title": "We're teapots",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc418_g",
+      "label": "G",
+      "title": "Binary Operation",
+      "url": "https://atcoder.jp/contests/abc418/tasks/abc418_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
