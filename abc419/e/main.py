@@ -1,3 +1,5 @@
+# 解説AC。現在のmodをひとつの次元にとるDP
+
 N, M, L = [int(x) for x in input().split()]
 A = [int(x) for x in input().split()]
 
@@ -21,9 +23,11 @@ dp[0][0] = 0
 for i in range(1, L + 1):
     for now_mod in range(M):
         now_ans = 10 ** 18
+        # 1回の遷移でbefore_modをひとつずつ見る、O(M)の遷移
         for before_mod in range(M):
             now_ans = min(now_ans, dp[i - 1][before_mod] + mod_group_min[(now_mod - before_mod) % M][i - 1])
 
         dp[i][now_mod] = now_ans
 
+# 採用するのは最後に余りが0となったスコア
 print(dp[-1][0])
