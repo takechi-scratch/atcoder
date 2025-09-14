@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc423",
+    "title": "AtCoder Beginner Contest 423",
+    "url": "https://atcoder.jp/contests/abc423"
+  },
+  "tasks": [
+    {
+      "id": "abc423_a",
+      "label": "A",
+      "title": "Scary Fee",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_b",
+      "label": "B",
+      "title": "Locked Rooms",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_c",
+      "label": "C",
+      "title": "Lock All Doors ",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_d",
+      "label": "D",
+      "title": "Long Waiting",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_e",
+      "label": "E",
+      "title": "Sum of Subarrays",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_f",
+      "label": "F",
+      "title": "Loud Cicada",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc423_g",
+      "label": "G",
+      "title": "Small Multiple 2",
+      "url": "https://atcoder.jp/contests/abc423/tasks/abc423_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
