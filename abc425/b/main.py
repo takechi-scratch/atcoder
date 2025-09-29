@@ -1,4 +1,7 @@
+# Codonでも実行可能な記述
+
 from itertools import permutations
+from sys import exit
 
 N = int(input())
 A = [int(x) for x in input().split()]
@@ -10,7 +13,7 @@ for P in permutations(range(1, N + 1), N):
 
     else:
         print("Yes")
-        print(*P)
+        print(" ".join([str(x) for x in P]))
         exit()
 
 print("No")

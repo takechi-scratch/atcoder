@@ -1,0 +1,460 @@
+{
+  "contest": {
+    "id": "language-test-202505",
+    "title": "Language Test 202505",
+    "url": "https://atcoder.jp/contests/language-test-202505"
+  },
+  "tasks": [
+    {
+      "id": "practice_1",
+      "label": "PracticeA",
+      "title": "Welcome to AtCoder",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice_1",
+      "directory": {
+        "path": "practicea",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc086_a",
+      "label": "ABC086A",
+      "title": "Product",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc086_a",
+      "directory": {
+        "path": "abc086a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc081_a",
+      "label": "ABC081A",
+      "title": "Placing Marbles",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc081_a",
+      "directory": {
+        "path": "abc081a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc081_b",
+      "label": "ABC081B",
+      "title": "Shift only",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc081_b",
+      "directory": {
+        "path": "abc081b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc087_b",
+      "label": "ABC087B",
+      "title": "Coins",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc087_b",
+      "directory": {
+        "path": "abc087b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc083_b",
+      "label": "ABC083B",
+      "title": "Some Sums",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc083_b",
+      "directory": {
+        "path": "abc083b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc088_b",
+      "label": "ABC088B",
+      "title": "Card Game for Two",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc088_b",
+      "directory": {
+        "path": "abc088b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc085_b",
+      "label": "ABC085B",
+      "title": "Kagami Mochi",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc085_b",
+      "directory": {
+        "path": "abc085b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc085_c",
+      "label": "ABC085C",
+      "title": "Otoshidama",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc085_c",
+      "directory": {
+        "path": "abc085c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc065_a",
+      "label": "ABC049C",
+      "title": "Daydream",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/arc065_a",
+      "directory": {
+        "path": "abc049c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc089_a",
+      "label": "ABC086C",
+      "title": "Traveling",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/arc089_a",
+      "directory": {
+        "path": "abc086c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice_2",
+      "label": "PracticeB",
+      "title": "Interactive Sorting",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice_2",
+      "directory": {
+        "path": "practiceb",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "future_contest_2019_final_a",
+      "label": "FutureContest2019FinalA",
+      "title": "モンスターテイマー",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/future_contest_2019_final_a",
+      "directory": {
+        "path": "futurecontest2019finala",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_a",
+      "label": "Practice2A",
+      "title": "Disjoint Set Union",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_a",
+      "directory": {
+        "path": "practice2a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_b",
+      "label": "Practice2B",
+      "title": "Fenwick Tree",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_b",
+      "directory": {
+        "path": "practice2b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_c",
+      "label": "Practice2C",
+      "title": "Floor Sum",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_c",
+      "directory": {
+        "path": "practice2c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_d",
+      "label": "Practice2D",
+      "title": "Maxflow",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_d",
+      "directory": {
+        "path": "practice2d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_e",
+      "label": "Practice2E",
+      "title": "MinCostFlow",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_e",
+      "directory": {
+        "path": "practice2e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_f",
+      "label": "Practice2F",
+      "title": "Convolution",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_f",
+      "directory": {
+        "path": "practice2f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_g",
+      "label": "Practice2G",
+      "title": "SCC",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_g",
+      "directory": {
+        "path": "practice2g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_h",
+      "label": "Practice2H",
+      "title": "Two SAT",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_h",
+      "directory": {
+        "path": "practice2h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_i",
+      "label": "Practice2I",
+      "title": "Number of Substrings",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_i",
+      "directory": {
+        "path": "practice2i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_j",
+      "label": "Practice2J",
+      "title": "Segment Tree",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_j",
+      "directory": {
+        "path": "practice2j",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_k",
+      "label": "Practice2K",
+      "title": "Range Affine Range Sum",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_k",
+      "directory": {
+        "path": "practice2k",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "practice2_l",
+      "label": "Practice2L",
+      "title": "Lazy Segment Tree",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/practice2_l",
+      "directory": {
+        "path": "practice2l",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "memorytest_b",
+      "label": "memorytest",
+      "title": "Memory Test 2",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/memorytest_b",
+      "directory": {
+        "path": "memorytest",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc259_b",
+      "label": "ABC259B",
+      "title": "Counterclockwise Rotation",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc259_b",
+      "directory": {
+        "path": "abc259b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc244_c",
+      "label": "ABC244C",
+      "title": "Yamanote Line Game",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc244_c",
+      "directory": {
+        "path": "abc244c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc169_b",
+      "label": "ABC169B",
+      "title": "Multiplication 2",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc169_b",
+      "directory": {
+        "path": "abc169b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc345_g",
+      "label": "ABC345G",
+      "title": "Sugoroku 5",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc345_g",
+      "directory": {
+        "path": "abc345g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc370_d",
+      "label": "ABC370D",
+      "title": "Cross Explosion",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc370_d",
+      "directory": {
+        "path": "abc370d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc358_d",
+      "label": "ABC358D",
+      "title": "Souvenirs",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc358_d",
+      "directory": {
+        "path": "abc358d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc385_d",
+      "label": "ABC385D",
+      "title": "Santa Claus 2",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc385_d",
+      "directory": {
+        "path": "abc385d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "dp_g",
+      "label": "DP_G",
+      "title": "Longest Path",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/dp_g",
+      "directory": {
+        "path": "dp_g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "dp_j",
+      "label": "DP_J",
+      "title": "Sushi",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/dp_j",
+      "directory": {
+        "path": "dp_j",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "dp_l",
+      "label": "DP_L",
+      "title": "Deque",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/dp_l",
+      "directory": {
+        "path": "dp_l",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc325_d",
+      "label": "ABC325D",
+      "title": "Printing Machine",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc325_d",
+      "directory": {
+        "path": "abc325d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc328_e",
+      "label": "ABC328E",
+      "title": "Modulo MST",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc328_e",
+      "directory": {
+        "path": "abc328e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "ahc040_a",
+      "label": "AHC040A",
+      "title": "Packing Uncertain Rectangles",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/ahc040_a",
+      "directory": {
+        "path": "ahc040a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc411_f",
+      "label": "ABC411F",
+      "title": "Contraction",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc411_f",
+      "directory": {
+        "path": "abc411f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc421_e",
+      "label": "ABC421E",
+      "title": "Yacht",
+      "url": "https://atcoder.jp/contests/language-test-202505/tasks/abc421_e",
+      "directory": {
+        "path": "abc421e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

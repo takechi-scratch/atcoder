@@ -1,0 +1,14 @@
+N = int(input())
+A = [int(x) for x in input().split()]
+
+for ans in range(10**5):
+    for i in range(N):
+        if A[i] % 2 != 0:
+            break
+        A[i] //= 2
+
+    else:
+        continue
+
+    print(ans)
+    exit()
