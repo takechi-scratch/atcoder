@@ -1,5 +1,8 @@
 N = int(input())
-Plans = [tuple(int(x) for x in input().split()) for _ in range(N)]
+Plans = []
+for _ in range(N):
+    txy = [int(x) for x in input().split()]
+    Plans.append((txy[0], txy[1], txy[2]))
 
 t, x, y = 0, 0, 0
 for plan in Plans:
