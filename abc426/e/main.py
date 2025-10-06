@@ -13,10 +13,17 @@ def nearest_point_line(base_sx: int, base_sy: int, dx: int, dy: int, start: int,
     dist = goal - start
     # WAポイント！ゼロ割りに気を付ける。
     # ベクトルの正規化で長さが0の時に注意。
-    if dist <= 0 or get_dist(dx, dy) <= 0:
+    if get_dist(dx, dy) <= 0:
         return get_dist(base_sx, base_sy)
 
     dx, dy = dx / get_dist(dx, dy), dy / get_dist(dx, dy)
+
+    # WAポイント！特別な場合分けをしたときはメモしておく。
+    # 気づいたときにテストケースを手動で作っておくべきかな...。
+    if dist <= 0:
+        check_x = base_sx + dx * start
+        check_y = base_sy + dy * start
+        return get_dist(check_x, check_y)
 
     # 三分探索
     # 極値を1つだけ持つ関数の最小値を求める！！
