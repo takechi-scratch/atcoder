@@ -1,0 +1,141 @@
+{
+  "contest": {
+    "id": "joigsp2025",
+    "title": "JOIG 2024/2025 Spring Training",
+    "url": "https://atcoder.jp/contests/joigsp2025"
+  },
+  "tasks": [
+    {
+      "id": "joigsp2025_a",
+      "label": "A",
+      "title": "ポーカー (Poker)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_b",
+      "label": "B",
+      "title": "雪玉 2 (Snowballs 2)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_c",
+      "label": "C",
+      "title": "救急車 (Ambulance)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_d",
+      "label": "D",
+      "title": "宇宙怪盗 (Space Thief)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_e",
+      "label": "E",
+      "title": "魔法陣 (Magic Circles)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_f",
+      "label": "F",
+      "title": "日本浮上 (Japan Emerges)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_g",
+      "label": "G",
+      "title": "マルチコミュニケーション (Multi Communication)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_h",
+      "label": "H",
+      "title": "勇者ビ太郎 3 (Bitaro the Brave 3)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_i",
+      "label": "I",
+      "title": "ティーパーティー (Tea Party)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_j",
+      "label": "J",
+      "title": "電波塔 (Radio Towers)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_k",
+      "label": "K",
+      "title": "ういろう (Uiro)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_k",
+      "directory": {
+        "path": "k",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2025_l",
+      "label": "L",
+      "title": "電子回路 2 (Circuit 2)",
+      "url": "https://atcoder.jp/contests/joigsp2025/tasks/joigsp2025_l",
+      "directory": {
+        "path": "l",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "joi2025yo2",
+    "title": "JOI 2024/2025 二次予選 過去問",
+    "url": "https://atcoder.jp/contests/joi2025yo2"
+  },
+  "tasks": [
+    {
+      "id": "joi2025_yo2_a",
+      "label": "A",
+      "title": "マスキングテープ (Masking Tape)",
+      "url": "https://atcoder.jp/contests/joi2025yo2/tasks/joi2025_yo2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025_yo2_b",
+      "label": "B",
+      "title": "ビリヤード (Billiards)",
+      "url": "https://atcoder.jp/contests/joi2025yo2/tasks/joi2025_yo2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025_yo2_c",
+      "label": "C",
+      "title": "ソフトクリーム (Softcream)",
+      "url": "https://atcoder.jp/contests/joi2025yo2/tasks/joi2025_yo2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025_yo2_d",
+      "label": "D",
+      "title": "親密なシェフ (Intimate Chef)",
+      "url": "https://atcoder.jp/contests/joi2025yo2/tasks/joi2025_yo2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2025_yo2_e",
+      "label": "E",
+      "title": "衝突 (Collision)",
+      "url": "https://atcoder.jp/contests/joi2025yo2/tasks/joi2025_yo2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
