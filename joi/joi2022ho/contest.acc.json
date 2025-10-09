@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "joi2022ho",
+    "title": "JOI 2021/2022 本選 過去問",
+    "url": "https://atcoder.jp/contests/joi2022ho"
+  },
+  "tasks": [
+    {
+      "id": "joi2022ho_a",
+      "label": "A",
+      "title": "インターカステラー (Intercastellar)",
+      "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2022ho_b",
+      "label": "B",
+      "title": "自習 (Self Study)",
+      "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2022ho_c",
+      "label": "C",
+      "title": "選挙で勝とう (Let's Win the Election)",
+      "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2022ho_d",
+      "label": "D",
+      "title": "鉄道旅行 2 (Railway Trip 2)",
+      "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2022ho_e",
+      "label": "E",
+      "title": "砂の城 2 (Sandcastle 2)",
+      "url": "https://atcoder.jp/contests/joi2022ho/tasks/joi2022ho_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
