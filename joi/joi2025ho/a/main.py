@@ -1,46 +1,73 @@
-# WA解答。部分点すら取れなかった
-
 from collections import defaultdict
 
 N = int(input())
-A = [int(x) for x in input().split()]
-B = [int(x) for x in input().split()]
-colors = defaultdict(int)
+A_raw = [int(x) for x in input().split()]
+B_raw = [int(x) for x in input().split()]
 
-colors[A[0]] += 1
-colors[A[1]] += 1
-colors[B[1]] += 1
+ans = []
 
-ok = True
-for i in range(2, N):
-    colors[A[i]] += 1
-    if A[i] <= A[i - 1]:
-        A[i] = A[i - 1]
-        ok = False
 
-for i in range(2, N):
-    colors[B[i]] += 1
-    if B[i] <= B[i - 1]:
-        B[i] = B[i - 1]
-        ok = False
+counts = defaultdict(int)
+counts[B_raw[0]] += 1
+A = A_raw[1:]
+B = B_raw[1:]
 
-if ok:
-    if A[-1] == B[-1]:
-        print(A[-1], N * 2 - 3 + colors[A[-1]])
+x_max = -1
+for i, x in enumerate(A):
+    if x < x_max:
+        counts[x] += 1
+        counts[x_max] -= 1
+        A[i] = x_max
+
+    x_max = max(x, x_max)
+
+x_max = -1
+for i, x in enumerate(B):
+    if x < x_max:
+        counts[x] += 1
+        counts[x_max] -= 1
+        B[i] = x_max
+
+    x_max = max(x, x_max)
+
+i_left = N
+j_left = N
+
+while len(A) > 0 or len(B) > 0:
+    if len(A) > 0 and (len(B) <= 0 or A[-1] >= B[-1]):
+        counts[A[-1]] += j_left
+        i_left -= 1
+        A.pop()
     else:
-        ac = max(A[-1], B[-1])
-        print(ac, N - 1 + colors[ac])
-    exit()
+        counts[B[-1]] += i_left
+        j_left -= 1
+        B.pop()
 
-assert N <= 500
+assert i_left == j_left == 1
 
-for i in range(1, N):
-    for j in range(1, N):
-        colors[max(A[i], B[j])] += 1
+best_color, best_score = None, -1
+for color, score in counts.items():
+    if score > best_score or (score == best_score and color > best_color):
+        best_color = color
+        best_score = score
 
-ans = (-1, -1)
-for x in colors.keys():
-    if colors[x] > ans[1] or (colors[x] == ans[1] and x > ans[0]):
-        ans = (x, colors[x])
 
-print(*ans)
+if N <= 500:
+    boards = [[None] * N for _ in range(N)]
+    boards[0] = B_raw
+    for i, x in enumerate(A_raw):
+        boards[i][0] = x
+
+    for i in range(1, N):
+        for j in range(1, N):
+            boards[i][j] = max(boards[i - 1][j], boards[i][j - 1])
+
+    counts_all = defaultdict(int)
+    for i in range(N):
+        for j in range(N):
+            counts_all[boards[i][j]] += 1
+
+    for color in counts_all.keys():
+        assert counts[color] == counts_all[color]
+
+print(int(best_color), int(best_score))

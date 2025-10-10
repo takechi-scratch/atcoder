@@ -172,8 +172,7 @@ tests/*
 .vscode/
 
 # private codes
-*private*.py
-*private*.cpp
+*private*
 memo.md
 my_problems/
 

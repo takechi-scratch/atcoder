@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "joig2024-open",
+    "title": "JOIG 2023/2024 本選 過去問",
+    "url": "https://atcoder.jp/contests/joig2024-open"
+  },
+  "tasks": [
+    {
+      "id": "joig2024_a",
+      "label": "A",
+      "title": "三連続 (Three Consecutive)",
+      "url": "https://atcoder.jp/contests/joig2024-open/tasks/joig2024_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2024_b",
+      "label": "B",
+      "title": "ダンス (Dance)",
+      "url": "https://atcoder.jp/contests/joig2024-open/tasks/joig2024_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2024_c",
+      "label": "C",
+      "title": "座席 2 (Seats 2)",
+      "url": "https://atcoder.jp/contests/joig2024-open/tasks/joig2024_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2024_d",
+      "label": "D",
+      "title": "たくさんの数字 (Many Digits)",
+      "url": "https://atcoder.jp/contests/joig2024-open/tasks/joig2024_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2024_e",
+      "label": "E",
+      "title": "名前 (Name)",
+      "url": "https://atcoder.jp/contests/joig2024-open/tasks/joig2024_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2024_f",
+      "label": "F",
+      "title": "感染シミュレーション (Infection Simulation)",
+      "url": "https://atcoder.jp/contests/joig2024-open/tasks/joig2024_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
