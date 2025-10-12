@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "joi2026-yo1b",
+    "title": "JOI 2025/2026 一次予選 (第2回:10月12日(日))",
+    "url": "https://atcoder.jp/contests/joi2026-yo1b"
+  },
+  "tasks": [
+    {
+      "id": "joi2026_yo1b_a",
+      "label": "A",
+      "title": "宿題 2 (Homework 2)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1b/tasks/joi2026_yo1b_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_yo1b_b",
+      "label": "B",
+      "title": "帰省 2 (Homecoming 2)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1b/tasks/joi2026_yo1b_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_yo1b_c",
+      "label": "C",
+      "title": "葵とIOI (Aoi and IOI)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1b/tasks/joi2026_yo1b_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_yo1b_d",
+      "label": "D",
+      "title": "距離 (Distance)",
+      "url": "https://atcoder.jp/contests/joi2026-yo1b/tasks/joi2026_yo1b_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
