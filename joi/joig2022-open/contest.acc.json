@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "joig2022-open",
+    "title": "JOIG 2021/2022 本選 過去問",
+    "url": "https://atcoder.jp/contests/joig2022-open"
+  },
+  "tasks": [
+    {
+      "id": "joig2022_a",
+      "label": "A",
+      "title": "ピアノコンクール (Piano Competition)",
+      "url": "https://atcoder.jp/contests/joig2022-open/tasks/joig2022_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2022_b",
+      "label": "B",
+      "title": "掛け算 (Multiplication)",
+      "url": "https://atcoder.jp/contests/joig2022-open/tasks/joig2022_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2022_c",
+      "label": "C",
+      "title": "投票 (Voting)",
+      "url": "https://atcoder.jp/contests/joig2022-open/tasks/joig2022_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2022_d",
+      "label": "D",
+      "title": "いちご 2 (Strawberry 2)",
+      "url": "https://atcoder.jp/contests/joig2022-open/tasks/joig2022_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2022_e",
+      "label": "E",
+      "title": "エゴイ展 (EGOI Exhibition)",
+      "url": "https://atcoder.jp/contests/joig2022-open/tasks/joig2022_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2022_f",
+      "label": "F",
+      "title": "タクシー 2 (Taxis 2)",
+      "url": "https://atcoder.jp/contests/joig2022-open/tasks/joig2022_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
