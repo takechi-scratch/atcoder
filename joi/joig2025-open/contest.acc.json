@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "joig2025-open",
+    "title": "JOIG 2024/2025 本選 過去問",
+    "url": "https://atcoder.jp/contests/joig2025-open"
+  },
+  "tasks": [
+    {
+      "id": "joig2025_a",
+      "label": "A",
+      "title": "カードゲーム 4 (Card Game 4)",
+      "url": "https://atcoder.jp/contests/joig2025-open/tasks/joig2025_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2025_b",
+      "label": "B",
+      "title": "ポスター 2 (Poster 2)",
+      "url": "https://atcoder.jp/contests/joig2025-open/tasks/joig2025_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2025_c",
+      "label": "C",
+      "title": "修学旅行 (School Trip)",
+      "url": "https://atcoder.jp/contests/joig2025-open/tasks/joig2025_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2025_d",
+      "label": "D",
+      "title": "最悪の記者 5 (Worst Reporter 5)",
+      "url": "https://atcoder.jp/contests/joig2025-open/tasks/joig2025_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2025_e",
+      "label": "E",
+      "title": "神経衰弱 2 (Pair Matching 2)",
+      "url": "https://atcoder.jp/contests/joig2025-open/tasks/joig2025_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
