@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "joi2021yo2",
+    "title": "JOI 2020/2021 二次予選 過去問",
+    "url": "https://atcoder.jp/contests/joi2021yo2"
+  },
+  "tasks": [
+    {
+      "id": "joi2021_yo2_a",
+      "label": "A",
+      "title": "往復すごろく (Round Sugoroku)",
+      "url": "https://atcoder.jp/contests/joi2021yo2/tasks/joi2021_yo2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2021_yo2_b",
+      "label": "B",
+      "title": "パンケーキ (Pancake)",
+      "url": "https://atcoder.jp/contests/joi2021yo2/tasks/joi2021_yo2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2021_yo2_c",
+      "label": "C",
+      "title": "イベント巡り (Event Hopping)",
+      "url": "https://atcoder.jp/contests/joi2021yo2/tasks/joi2021_yo2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2021_yo2_d",
+      "label": "D",
+      "title": "安全点検 (Safety Inspection)",
+      "url": "https://atcoder.jp/contests/joi2021yo2/tasks/joi2021_yo2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2021_yo2_e",
+      "label": "E",
+      "title": "スパイ 2 (Spy 2)",
+      "url": "https://atcoder.jp/contests/joi2021yo2/tasks/joi2021_yo2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
