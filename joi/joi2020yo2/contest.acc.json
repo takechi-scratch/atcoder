@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "joi2020yo2",
+    "title": "JOI 2019/2020 二次予選 過去問",
+    "url": "https://atcoder.jp/contests/joi2020yo2"
+  },
+  "tasks": [
+    {
+      "id": "joi2020_yo2_a",
+      "label": "A",
+      "title": "ポスター (Poster)",
+      "url": "https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2020_yo2_b",
+      "label": "B",
+      "title": "いちご (Strawberry)",
+      "url": "https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2020_yo2_c",
+      "label": "C",
+      "title": "桁和 (Digit Sum)",
+      "url": "https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2020_yo2_d",
+      "label": "D",
+      "title": "テンキー (Tenkey)",
+      "url": "https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2020_yo2_e",
+      "label": "E",
+      "title": "じゃんけん式 (Rock-Scissors-Paper Expression)",
+      "url": "https://atcoder.jp/contests/joi2020yo2/tasks/joi2020_yo2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

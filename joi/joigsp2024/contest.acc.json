@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "joigsp2024",
+    "title": "JOI 2023/2024 Spring Training",
+    "url": "https://atcoder.jp/contests/joigsp2024"
+  },
+  "tasks": [
+    {
+      "id": "joigsp2024_a",
+      "label": "A",
+      "title": "いっしょ (Together)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_b",
+      "label": "B",
+      "title": "バームクーヘン 2 (Baumkuchen 2)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_c",
+      "label": "C",
+      "title": "ボードゲーム (Board Game)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_d",
+      "label": "D",
+      "title": "三色灯 (Tricolor Lights)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_e",
+      "label": "E",
+      "title": "カードゲーム 3 (Card Game 3)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_f",
+      "label": "F",
+      "title": "チョコレートを増やせ (Increase Chocolates)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_g",
+      "label": "G",
+      "title": "島巡り (Island Hopping)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2024_h",
+      "label": "H",
+      "title": "卓球 (Table Tennis)",
+      "url": "https://atcoder.jp/contests/joigsp2024/tasks/joigsp2024_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
