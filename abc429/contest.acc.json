@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc429",
+    "title": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
+    "url": "https://atcoder.jp/contests/abc429"
+  },
+  "tasks": [
+    {
+      "id": "abc429_a",
+      "label": "A",
+      "title": "Too Many Requests",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_b",
+      "label": "B",
+      "title": "N - 1",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_c",
+      "label": "C",
+      "title": "Odd One Subsequence",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_d",
+      "label": "D",
+      "title": "On AtCoder Conference",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_e",
+      "label": "E",
+      "title": "Hit and Away",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_f",
+      "label": "F",
+      "title": "Shortest Path Query",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc429_g",
+      "label": "G",
+      "title": "Sum of Pow of Mod of Linear",
+      "url": "https://atcoder.jp/contests/abc429/tasks/abc429_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
