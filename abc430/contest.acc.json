@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc430",
+    "title": "AtCoder Beginner Contest 430",
+    "url": "https://atcoder.jp/contests/abc430"
+  },
+  "tasks": [
+    {
+      "id": "abc430_a",
+      "label": "A",
+      "title": "Candy Cookie Law",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc430_b",
+      "label": "B",
+      "title": "Count Subgrid",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc430_c",
+      "label": "C",
+      "title": "Truck Driver",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc430_d",
+      "label": "D",
+      "title": "Neighbor Distance",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc430_e",
+      "label": "E",
+      "title": "Shift String",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc430_f",
+      "label": "F",
+      "title": "Back and Forth Filling ",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc430_g",
+      "label": "G",
+      "title": "Range Set Modifying Query",
+      "url": "https://atcoder.jp/contests/abc430/tasks/abc430_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
