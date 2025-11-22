@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc433",
+    "title": "AtCoder Beginner Contest 433",
+    "url": "https://atcoder.jp/contests/abc433"
+  },
+  "tasks": [
+    {
+      "id": "abc433_a",
+      "label": "A",
+      "title": "Happy Birthday! 4",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc433_b",
+      "label": "B",
+      "title": "Nearest Taller",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc433_c",
+      "label": "C",
+      "title": "1122 Substring 2",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc433_d",
+      "label": "D",
+      "title": "183183",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc433_e",
+      "label": "E",
+      "title": "Max Matrix 2",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc433_f",
+      "label": "F",
+      "title": "1122 Subsequence 2",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc433_g",
+      "label": "G",
+      "title": "Substring Game",
+      "url": "https://atcoder.jp/contests/abc433/tasks/abc433_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
