@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc434",
+    "title": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
+    "url": "https://atcoder.jp/contests/abc434"
+  },
+  "tasks": [
+    {
+      "id": "abc434_a",
+      "label": "A",
+      "title": "Balloon Trip",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc434_b",
+      "label": "B",
+      "title": "Bird Watching",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc434_c",
+      "label": "C",
+      "title": "Flapping Takahashi",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc434_d",
+      "label": "D",
+      "title": "Clouds",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc434_e",
+      "label": "E",
+      "title": "Distribute Bunnies",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc434_f",
+      "label": "F",
+      "title": "Concat (2nd)",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc434_g",
+      "label": "G",
+      "title": "Keyboard",
+      "url": "https://atcoder.jp/contests/abc434/tasks/abc434_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
