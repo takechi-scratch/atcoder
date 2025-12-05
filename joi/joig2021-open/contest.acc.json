@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "joig2021-open",
+    "title": "JOIG 2021 過去問",
+    "url": "https://atcoder.jp/contests/joig2021-open"
+  },
+  "tasks": [
+    {
+      "id": "joig2021_a",
+      "label": "A",
+      "title": "金平糖 (Konpeito)",
+      "url": "https://atcoder.jp/contests/joig2021-open/tasks/joig2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2021_b",
+      "label": "B",
+      "title": "巻物 (Scroll)",
+      "url": "https://atcoder.jp/contests/joig2021-open/tasks/joig2021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2021_c",
+      "label": "C",
+      "title": "イルミネーション 2 (Illumination 2)",
+      "url": "https://atcoder.jp/contests/joig2021-open/tasks/joig2021_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2021_d",
+      "label": "D",
+      "title": "展覧会 2 (Exhibition 2)",
+      "url": "https://atcoder.jp/contests/joig2021-open/tasks/joig2021_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2021_e",
+      "label": "E",
+      "title": "パレード (Parade)",
+      "url": "https://atcoder.jp/contests/joig2021-open/tasks/joig2021_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2021_f",
+      "label": "F",
+      "title": "デジタルアート (Digital Art)",
+      "url": "https://atcoder.jp/contests/joig2021-open/tasks/joig2021_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
