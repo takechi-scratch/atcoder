@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc056",
+    "title": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
+    "url": "https://atcoder.jp/contests/ahc056"
+  },
+  "tasks": [
+    {
+      "id": "ahc056_a",
+      "label": "A",
+      "title": "Grid Turing Robot",
+      "url": "https://atcoder.jp/contests/ahc056/tasks/ahc056_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
