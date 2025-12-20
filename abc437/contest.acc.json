@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc437",
+    "title": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
+    "url": "https://atcoder.jp/contests/abc437"
+  },
+  "tasks": [
+    {
+      "id": "abc437_a",
+      "label": "A",
+      "title": "Feet",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_b",
+      "label": "B",
+      "title": "Tombola",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_c",
+      "label": "C",
+      "title": "Reindeer and Sleigh 2",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_d",
+      "label": "D",
+      "title": "Sum of Differences",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_e",
+      "label": "E",
+      "title": "Sort Arrays",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_f",
+      "label": "F",
+      "title": "Manhattan Christmas Tree 2",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc437_g",
+      "label": "G",
+      "title": "Colorful Christmas Tree",
+      "url": "https://atcoder.jp/contests/abc437/tasks/abc437_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
