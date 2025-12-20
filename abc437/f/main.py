@@ -1,12 +1,10 @@
+# マンハッタン距離の45度回転
+# 本番は理解しないまんま実装したけど、しっかり確認しておきたい
 from atcoder.segtree import SegTree
 
 
 def op(x, y):
     return [min(x[0], y[0]), max(x[1], y[1])]
-
-
-def e():
-    return [-(10**18), 10**18]
 
 
 N, Q = [int(x) for x in input().split()]
@@ -17,11 +15,6 @@ for i in range(N):
     x, y = [int(x) for x in input().split()]
     x_seg.set(i, [x + y, x + y])
     y_seg.set(i, [x - y, x - y])
-
-
-def manhattan(x1, y1, x2, y2):
-    return abs(x1 - x2) + abs(y1 - y2)
-
 
 for _ in range(Q):
     query = [int(x) for x in input().split()]
@@ -42,4 +35,3 @@ for _ in range(Q):
                 abs(y_seg_res[1] - (x - y)),
             )
         )
-        # target = [x + y, x - y]
