@@ -1,0 +1,61 @@
+import typing
+
+
+class DSU:
+    """
+    https://github.com/not522/ac-library-python
+    """
+
+    def __init__(self, n: int = 0) -> None:
+        self._n = n
+        self.parent_or_size = [-1] * n
+
+    def merge(self, a: int, b: int) -> int:
+        assert 0 <= a < self._n
+        assert 0 <= b < self._n
+
+        x = self.leader(a)
+        y = self.leader(b)
+
+        if x == y:
+            return x
+
+        if -self.parent_or_size[x] < -self.parent_or_size[y]:
+            x, y = y, x
+
+        self.parent_or_size[x] += self.parent_or_size[y]
+        self.parent_or_size[y] = x
+
+        return x
+
+    def same(self, a: int, b: int) -> bool:
+        assert 0 <= a < self._n
+        assert 0 <= b < self._n
+
+        return self.leader(a) == self.leader(b)
+
+    def leader(self, a: int) -> int:
+        assert 0 <= a < self._n
+
+        parent = self.parent_or_size[a]
+        while parent >= 0:
+            if self.parent_or_size[parent] < 0:
+                return parent
+            self.parent_or_size[a], a, parent = (
+                self.parent_or_size[parent],
+                self.parent_or_size[parent],
+                self.parent_or_size[self.parent_or_size[parent]],
+            )
+
+        return a
+
+
+N, Q = [int(x) for x in input().split()]
+
+uf = DSU(N)
+for _ in range(Q):
+    t, u, v = [int(x) for x in input().split()]
+    if t == 0:
+        uf.merge(u, v)
+    else:
+        print(int(uf.same(u, v)))
