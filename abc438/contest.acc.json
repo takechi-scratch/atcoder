@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc438",
+    "title": "AtCoder Beginner Contest 438",
+    "url": "https://atcoder.jp/contests/abc438"
+  },
+  "tasks": [
+    {
+      "id": "abc438_a",
+      "label": "A",
+      "title": "First Contest of the Year",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc438_b",
+      "label": "B",
+      "title": "Substring 2",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc438_c",
+      "label": "C",
+      "title": "1D puyopuyo",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc438_d",
+      "label": "D",
+      "title": "Tail of Snake ",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc438_e",
+      "label": "E",
+      "title": "Heavy Buckets",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc438_f",
+      "label": "F",
+      "title": "Sum of Mex",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc438_g",
+      "label": "G",
+      "title": "Sum of Min",
+      "url": "https://atcoder.jp/contests/abc438/tasks/abc438_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
