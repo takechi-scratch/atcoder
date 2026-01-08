@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "joigsp2023",
+    "title": "JOIG 2022/2023 春季トレーニング 過去問",
+    "url": "https://atcoder.jp/contests/joigsp2023"
+  },
+  "tasks": [
+    {
+      "id": "joigsp2023_a",
+      "label": "A",
+      "title": "ロケット打ち上げ (Rocket Launching)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_b",
+      "label": "B",
+      "title": "テレポーター (Teleporter)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_c",
+      "label": "C",
+      "title": "議会 (Council)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_d",
+      "label": "D",
+      "title": "ベルトコンベア (Belt Conveyor)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_e",
+      "label": "E",
+      "title": "スマートフォン (Smartphone)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_f",
+      "label": "F",
+      "title": "白色光 (White Light)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_g",
+      "label": "G",
+      "title": "ビ太郎の旅 (Bitaro's Travel)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joigsp2023_h",
+      "label": "H",
+      "title": "最後の戦い (The Last Battle)",
+      "url": "https://atcoder.jp/contests/joigsp2023/tasks/joigsp2023_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
