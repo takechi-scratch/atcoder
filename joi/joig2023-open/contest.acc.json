@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "joig2023-open",
+    "title": "JOIG 2022/2023 本選 過去問",
+    "url": "https://atcoder.jp/contests/joig2023-open"
+  },
+  "tasks": [
+    {
+      "id": "joig2023_a",
+      "label": "A",
+      "title": "末尾の文字 (Last Letter)",
+      "url": "https://atcoder.jp/contests/joig2023-open/tasks/joig2023_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2023_b",
+      "label": "B",
+      "title": "絶対階差数列 (Sequence of Absolute Differences)",
+      "url": "https://atcoder.jp/contests/joig2023-open/tasks/joig2023_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2023_c",
+      "label": "C",
+      "title": "鐘 (Bell)",
+      "url": "https://atcoder.jp/contests/joig2023-open/tasks/joig2023_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2023_d",
+      "label": "D",
+      "title": "コイン集め 2 (Coin Collecting 2)",
+      "url": "https://atcoder.jp/contests/joig2023-open/tasks/joig2023_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2023_e",
+      "label": "E",
+      "title": "運河 (Canal)",
+      "url": "https://atcoder.jp/contests/joig2023-open/tasks/joig2023_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joig2023_f",
+      "label": "F",
+      "title": "タイピング大会 (Typing Contest)",
+      "url": "https://atcoder.jp/contests/joig2023-open/tasks/joig2023_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
