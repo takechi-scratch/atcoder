@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc441",
+    "title": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+    "url": "https://atcoder.jp/contests/abc441"
+  },
+  "tasks": [
+    {
+      "id": "abc441_a",
+      "label": "A",
+      "title": "Black Square",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc441_b",
+      "label": "B",
+      "title": "Two Languages",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc441_c",
+      "label": "C",
+      "title": "Sake or Water",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc441_d",
+      "label": "D",
+      "title": "Paid Walk",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc441_e",
+      "label": "E",
+      "title": "A > B substring",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc441_f",
+      "label": "F",
+      "title": "Must Buy",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc441_g",
+      "label": "G",
+      "title": "Takoyaki and Flip",
+      "url": "https://atcoder.jp/contests/abc441/tasks/abc441_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
