@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc442",
+    "title": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
+    "url": "https://atcoder.jp/contests/abc442"
+  },
+  "tasks": [
+    {
+      "id": "abc442_a",
+      "label": "A",
+      "title": "Count .",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_b",
+      "label": "B",
+      "title": "Music Player",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_c",
+      "label": "C",
+      "title": "Peer Review",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_d",
+      "label": "D",
+      "title": "Swap and Range Sum",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_e",
+      "label": "E",
+      "title": "Laser Takahashi",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_f",
+      "label": "F",
+      "title": "Diagonal Separation 2",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc442_g",
+      "label": "G",
+      "title": "Lightweight Knapsack",
+      "url": "https://atcoder.jp/contests/abc442/tasks/abc442_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
