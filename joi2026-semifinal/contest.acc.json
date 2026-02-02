@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "joi2026-semifinal",
+    "title": "JOI 2025/2026 セミファイナルステージ (2月1日(日))",
+    "url": "https://atcoder.jp/contests/joi2026-semifinal"
+  },
+  "tasks": [
+    {
+      "id": "joi2026_semifinal_a",
+      "label": "A",
+      "title": "座席 3 (Seats 3)",
+      "url": "https://atcoder.jp/contests/joi2026-semifinal/tasks/joi2026_semifinal_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_semifinal_b",
+      "label": "B",
+      "title": "宝石商 (Jeweler)",
+      "url": "https://atcoder.jp/contests/joi2026-semifinal/tasks/joi2026_semifinal_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_semifinal_c",
+      "label": "C",
+      "title": "衣服 (Clothes)",
+      "url": "https://atcoder.jp/contests/joi2026-semifinal/tasks/joi2026_semifinal_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_semifinal_d",
+      "label": "D",
+      "title": "川下り(River Rafting) ",
+      "url": "https://atcoder.jp/contests/joi2026-semifinal/tasks/joi2026_semifinal_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_semifinal_e",
+      "label": "E",
+      "title": "新たな橋 (New Bridge)",
+      "url": "https://atcoder.jp/contests/joi2026-semifinal/tasks/joi2026_semifinal_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_semifinal_f",
+      "label": "F",
+      "title": "奇妙な機械 (Strange Machine)",
+      "url": "https://atcoder.jp/contests/joi2026-semifinal/tasks/joi2026_semifinal_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
