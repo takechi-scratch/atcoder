@@ -1,14 +1,9 @@
-from math import log2, ceil
+# 未AC
+# from math import log2, ceil
 
 
 def bisect_devide(N, M):
-    if N < M:
-        return 0
-
-    base = 1 << ceil(log2(N / M))
-    # print(base)
-
-    return max(base - (base * M - N), base // 2)
+    return N // M
 
 
 def solve(N: int, M: int, A: list[int]):
@@ -23,7 +18,7 @@ def solve(N: int, M: int, A: list[int]):
 
         add = min(add, M)
 
-        if base + add > (N + M) // 2:
+        if base + add >= (N + M + 1) // 2:
             ok = X
         else:
             ng = X
