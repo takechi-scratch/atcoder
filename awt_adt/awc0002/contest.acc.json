@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0002",
+    "title": "AtCoder Weekday Contest 0002 Beta",
+    "url": "https://atcoder.jp/contests/awc0002"
+  },
+  "tasks": [
+    {
+      "id": "awc0002_a",
+      "label": "A",
+      "title": "Organizing the Bookshelf",
+      "url": "https://atcoder.jp/contests/awc0002/tasks/awc0002_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0002_b",
+      "label": "B",
+      "title": "Fruit Sorting",
+      "url": "https://atcoder.jp/contests/awc0002/tasks/awc0002_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0002_c",
+      "label": "C",
+      "title": "Observing Plant Growth",
+      "url": "https://atcoder.jp/contests/awc0002/tasks/awc0002_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0002_d",
+      "label": "D",
+      "title": "Keys and Treasure Boxes",
+      "url": "https://atcoder.jp/contests/awc0002/tasks/awc0002_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0002_e",
+      "label": "E",
+      "title": "Assortment of Sweets",
+      "url": "https://atcoder.jp/contests/awc0002/tasks/awc0002_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
