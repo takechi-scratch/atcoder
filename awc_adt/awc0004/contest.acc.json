@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0004",
+    "title": "AtCoder Weekday Contest 0004 Beta",
+    "url": "https://atcoder.jp/contests/awc0004"
+  },
+  "tasks": [
+    {
+      "id": "awc0004_a",
+      "label": "A",
+      "title": "Preparations Before Departure",
+      "url": "https://atcoder.jp/contests/awc0004/tasks/awc0004_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0004_b",
+      "label": "B",
+      "title": "Battery Level",
+      "url": "https://atcoder.jp/contests/awc0004/tasks/awc0004_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0004_c",
+      "label": "C",
+      "title": "Minimum Cost of Temperature Adjustment",
+      "url": "https://atcoder.jp/contests/awc0004/tasks/awc0004_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0004_d",
+      "label": "D",
+      "title": "Parking Lot Assignment",
+      "url": "https://atcoder.jp/contests/awc0004/tasks/awc0004_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0004_e",
+      "label": "E",
+      "title": "Sum of Intervals",
+      "url": "https://atcoder.jp/contests/awc0004/tasks/awc0004_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
