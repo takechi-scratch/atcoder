@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0006",
+    "title": "AtCoder Weekday Contest 0006 Beta",
+    "url": "https://atcoder.jp/contests/awc0006"
+  },
+  "tasks": [
+    {
+      "id": "awc0006_a",
+      "label": "A",
+      "title": "Target Shooting Game",
+      "url": "https://atcoder.jp/contests/awc0006/tasks/awc0006_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0006_b",
+      "label": "B",
+      "title": "Efficient Quests",
+      "url": "https://atcoder.jp/contests/awc0006/tasks/awc0006_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0006_c",
+      "label": "C",
+      "title": "Air Conditioner Temperature Adjustment",
+      "url": "https://atcoder.jp/contests/awc0006/tasks/awc0006_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0006_d",
+      "label": "D",
+      "title": "Placement of Security Guards",
+      "url": "https://atcoder.jp/contests/awc0006/tasks/awc0006_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0006_e",
+      "label": "E",
+      "title": "Store Sales Management",
+      "url": "https://atcoder.jp/contests/awc0006/tasks/awc0006_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
