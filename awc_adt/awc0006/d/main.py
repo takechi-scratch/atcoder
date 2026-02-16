@@ -1,34 +1,37 @@
-from sortedcontainers import SortedList
-
 N, M = [int(x) for x in input().split()]
 
 k = [[int(x) for x in input().split()] for _ in range(M)]
-sk = SortedList([[x[0], x[1] + 1] for x in k])
+k = [[x[0], x[1] + 1] for x in k]
+k.sort()
+use = [True] * M
 
 max_r = 0
 i = 0
-while i < len(sk):
-    l, r = sk[i]
+for i in range(M):
+    l, r = k[i]
     if r <= max_r:
-        sk.pop(i)
-    elif i + 1 < len(sk) and l == sk[i + 1][0] and r < sk[i + 1][1]:
-        sk.pop(i)
+        use[i] = False
+    elif i + 1 < len(k) and l == k[i + 1][0] and r < k[i + 1][1]:
+        use[i] = False
     else:
         max_r = max(max_r, r)
-        i += 1
+
+    i += 1
+
+k = [x for i, x in enumerate(k) if use[i]]
 
 max_r = 1
 ans = 0
 ok = True
-for i in range(len(sk)):
-    l, r = sk[i]
+for i in range(len(k)):
+    l, r = k[i]
     if max_r < l:
         ok = False
         break
     if max_r > N:
         break
 
-    if i + 1 < len(sk) and sk[i + 1][0] <= max_r:
+    if i + 1 < len(k) and k[i + 1][0] <= max_r:
         continue
     if r <= max_r:
         continue
