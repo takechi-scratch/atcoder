@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0007",
+    "title": "AtCoder Weekday Contest 0007 Beta",
+    "url": "https://atcoder.jp/contests/awc0007"
+  },
+  "tasks": [
+    {
+      "id": "awc0007_a",
+      "label": "A",
+      "title": "Selection of Delivery Trucks",
+      "url": "https://atcoder.jp/contests/awc0007/tasks/awc0007_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0007_b",
+      "label": "B",
+      "title": "Laboratories That Can Collaborate",
+      "url": "https://atcoder.jp/contests/awc0007/tasks/awc0007_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0007_c",
+      "label": "C",
+      "title": "Group Knockout Battle",
+      "url": "https://atcoder.jp/contests/awc0007/tasks/awc0007_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0007_d",
+      "label": "D",
+      "title": "Investigation of Overlapping Advertisement Areas",
+      "url": "https://atcoder.jp/contests/awc0007/tasks/awc0007_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0007_e",
+      "label": "E",
+      "title": "Warehouse Robot Delivery",
+      "url": "https://atcoder.jp/contests/awc0007/tasks/awc0007_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
