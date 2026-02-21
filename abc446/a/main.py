@@ -1,0 +1,1 @@
+print("Of" + input().lower())
