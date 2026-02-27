@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc215",
+    "title": "AtCoder Regular Contest 215",
+    "url": "https://atcoder.jp/contests/arc215"
+  },
+  "tasks": [
+    {
+      "id": "arc215_a",
+      "label": "A",
+      "title": "Zombie",
+      "url": "https://atcoder.jp/contests/arc215/tasks/arc215_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc215_b",
+      "label": "B",
+      "title": "Stolen Necklace",
+      "url": "https://atcoder.jp/contests/arc215/tasks/arc215_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc215_c",
+      "label": "C",
+      "title": "Strong Surname",
+      "url": "https://atcoder.jp/contests/arc215/tasks/arc215_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc215_d",
+      "label": "D",
+      "title": "cresc.",
+      "url": "https://atcoder.jp/contests/arc215/tasks/arc215_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc215_e",
+      "label": "E",
+      "title": "CNOT Party",
+      "url": "https://atcoder.jp/contests/arc215/tasks/arc215_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc215_f",
+      "label": "F",
+      "title": "Scapus",
+      "url": "https://atcoder.jp/contests/arc215/tasks/arc215_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
