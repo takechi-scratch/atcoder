@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0015",
+    "title": "AtCoder Weekday Contest 0015 Beta",
+    "url": "https://atcoder.jp/contests/awc0015"
+  },
+  "tasks": [
+    {
+      "id": "awc0015_a",
+      "label": "A",
+      "title": "Dot Product Calculation",
+      "url": "https://atcoder.jp/contests/awc0015/tasks/awc0015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0015_b",
+      "label": "B",
+      "title": "First Alert",
+      "url": "https://atcoder.jp/contests/awc0015/tasks/awc0015_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0015_c",
+      "label": "C",
+      "title": "Matchup Card Combinations",
+      "url": "https://atcoder.jp/contests/awc0015/tasks/awc0015_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0015_d",
+      "label": "D",
+      "title": "Assignment of Cooking Tasks",
+      "url": "https://atcoder.jp/contests/awc0015/tasks/awc0015_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0015_e",
+      "label": "E",
+      "title": "Count the Types of Flowers",
+      "url": "https://atcoder.jp/contests/awc0015/tasks/awc0015_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
