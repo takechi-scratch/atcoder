@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc447",
+    "title": "AtCoder Beginner Contest 447",
+    "url": "https://atcoder.jp/contests/abc447"
+  },
+  "tasks": [
+    {
+      "id": "abc447_a",
+      "label": "A",
+      "title": "Seats 2",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc447_b",
+      "label": "B",
+      "title": "mpp",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc447_c",
+      "label": "C",
+      "title": "Insert and Erase A",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc447_d",
+      "label": "D",
+      "title": "Take ABC 2",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc447_e",
+      "label": "E",
+      "title": "Divide Graph",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc447_f",
+      "label": "F",
+      "title": "Centipede Graph",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc447_g",
+      "label": "G",
+      "title": "Div. 1 & Div. 2",
+      "url": "https://atcoder.jp/contests/abc447/tasks/abc447_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
