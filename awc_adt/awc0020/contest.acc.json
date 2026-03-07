@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0020",
+    "title": "AtCoder Weekday Contest 0020 Beta",
+    "url": "https://atcoder.jp/contests/awc0020"
+  },
+  "tasks": [
+    {
+      "id": "awc0020_a",
+      "label": "A",
+      "title": "Equalizing Water",
+      "url": "https://atcoder.jp/contests/awc0020/tasks/awc0020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0020_b",
+      "label": "B",
+      "title": "Climbing to the Summit",
+      "url": "https://atcoder.jp/contests/awc0020/tasks/awc0020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0020_c",
+      "label": "C",
+      "title": "Organizing the Bookshelf",
+      "url": "https://atcoder.jp/contests/awc0020/tasks/awc0020_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0020_d",
+      "label": "D",
+      "title": "Wi-Fi Spot Connection",
+      "url": "https://atcoder.jp/contests/awc0020/tasks/awc0020_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0020_e",
+      "label": "E",
+      "title": "Shelving Books on a Bookshelf",
+      "url": "https://atcoder.jp/contests/awc0020/tasks/awc0020_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
