@@ -24,6 +24,12 @@ syuki_root = divide_cache.index(divide_cache[-1])
 syuki = len(divide_cache) - syuki_root - 1
 
 
+power_q = [0, 1]
+for i in range(len(divide_cache + 1)):
+    now = power_q[-1] * 10
+
+
+
 def divide(repeat: int):
     if repeat < len(divide_cache):
         return divide_cache[repeat]
@@ -36,10 +42,10 @@ ans_q, ans_m_mod = 0, 0
 power = 0
 for c, l in reversed(N):
     q, mod = divide(l)
-    ans_q += q * c
+    ans_q += q * c * pow(10, power, ANS_MOD)
     ans_q %= ANS_MOD
 
-    ans_m_mod += mod * c
+    ans_m_mod += mod * c * pow(10, power, M)
     ans_q += ans_m_mod // M
     ans_m_mod %= M
 

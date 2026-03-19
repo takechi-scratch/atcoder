@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0029",
+    "title": "AtCoder Weekday Contest 0029 Beta",
+    "url": "https://atcoder.jp/contests/awc0029"
+  },
+  "tasks": [
+    {
+      "id": "awc0029_a",
+      "label": "A",
+      "title": "Calculating Part-Time Job Pay",
+      "url": "https://atcoder.jp/contests/awc0029/tasks/awc0029_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0029_b",
+      "label": "B",
+      "title": "Warehouse Inventory Management",
+      "url": "https://atcoder.jp/contests/awc0029/tasks/awc0029_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0029_c",
+      "label": "C",
+      "title": "Formation of the Strongest Pair",
+      "url": "https://atcoder.jp/contests/awc0029/tasks/awc0029_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0029_d",
+      "label": "D",
+      "title": "Network Installation",
+      "url": "https://atcoder.jp/contests/awc0029/tasks/awc0029_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0029_e",
+      "label": "E",
+      "title": "Traveling Delivery",
+      "url": "https://atcoder.jp/contests/awc0029/tasks/awc0029_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
