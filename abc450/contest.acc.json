@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc450",
+    "title": "AtCoder Beginner Contest 450",
+    "url": "https://atcoder.jp/contests/abc450"
+  },
+  "tasks": [
+    {
+      "id": "abc450_a",
+      "label": "A",
+      "title": "3,2,1,GO",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_b",
+      "label": "B",
+      "title": "Split Ticketing",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_c",
+      "label": "C",
+      "title": "Puddles",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_d",
+      "label": "D",
+      "title": "Minimize Range",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_e",
+      "label": "E",
+      "title": "Fibonacci String",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_f",
+      "label": "F",
+      "title": "Strongly Connected 2",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc450_g",
+      "label": "G",
+      "title": "Random Subtraction",
+      "url": "https://atcoder.jp/contests/abc450/tasks/abc450_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
