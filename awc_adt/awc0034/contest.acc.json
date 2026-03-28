@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "awc0034",
+    "title": "AtCoder Weekday Contest 0034 Beta",
+    "url": "https://atcoder.jp/contests/awc0034"
+  },
+  "tasks": [
+    {
+      "id": "awc0034_a",
+      "label": "A",
+      "title": "Reception Processing at the Service Window",
+      "url": "https://atcoder.jp/contests/awc0034/tasks/awc0034_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0034_b",
+      "label": "B",
+      "title": "From Station to Station",
+      "url": "https://atcoder.jp/contests/awc0034/tasks/awc0034_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0034_c",
+      "label": "C",
+      "title": "Watering the Flower Bed",
+      "url": "https://atcoder.jp/contests/awc0034/tasks/awc0034_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0034_d",
+      "label": "D",
+      "title": "Meeting Room Reservation",
+      "url": "https://atcoder.jp/contests/awc0034/tasks/awc0034_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0034_e",
+      "label": "E",
+      "title": "Exhibition Layout",
+      "url": "https://atcoder.jp/contests/awc0034/tasks/awc0034_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
