@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc452",
+    "title": "AtCoder Beginner Contest 452",
+    "url": "https://atcoder.jp/contests/abc452"
+  },
+  "tasks": [
+    {
+      "id": "abc452_a",
+      "label": "A",
+      "title": "Gothec",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc452_b",
+      "label": "B",
+      "title": "Draw Frame",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc452_c",
+      "label": "C",
+      "title": "Fishbones",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc452_d",
+      "label": "D",
+      "title": "No-Subsequence Substring",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc452_e",
+      "label": "E",
+      "title": "You WILL Like Sigma Problem",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc452_f",
+      "label": "F",
+      "title": "Interval Inversion Count",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc452_g",
+      "label": "G",
+      "title": "221 Substring",
+      "url": "https://atcoder.jp/contests/abc452/tasks/abc452_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
