@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "joi2026-practice",
+    "title": "JOI 2025/2026 予選練習",
+    "url": "https://atcoder.jp/contests/joi2026-practice"
+  },
+  "tasks": [
+    {
+      "id": "joi2026_practice_a",
+      "label": "A",
+      "title": "はじめに (Hello World)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_b",
+      "label": "B",
+      "title": "立方体 (Cube)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_c",
+      "label": "C",
+      "title": "身長 (Height)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_d",
+      "label": "D",
+      "title": "三方比較 (Three-Way Comparison)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_e",
+      "label": "E",
+      "title": "画数数え (Stroke Count)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_f",
+      "label": "F",
+      "title": "反転 (Reverse)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_g",
+      "label": "G",
+      "title": "比較 (Comparison)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_h",
+      "label": "H",
+      "title": "カードゲーム 2 (Card Game 2)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "joi2026_practice_i",
+      "label": "I",
+      "title": "インターカステラー (Intercastellar)",
+      "url": "https://atcoder.jp/contests/joi2026-practice/tasks/joi2026_practice_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
