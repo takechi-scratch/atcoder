@@ -18,7 +18,7 @@ class ModComb:
             self.inv_factor.append(pow(self.factor[x], self.MOD - 2, self.MOD))
 
     def mod_comb(self, n: int, k: int):
-        if n < k:
+        if not 0 <= k <= n:
             return 0
 
         self._calc_factor(n)

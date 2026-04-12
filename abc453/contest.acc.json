@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc453",
+    "title": "AtCoder Beginner Contest 453",
+    "url": "https://atcoder.jp/contests/abc453"
+  },
+  "tasks": [
+    {
+      "id": "abc453_a",
+      "label": "A",
+      "title": "Trimo",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc453_b",
+      "label": "B",
+      "title": "Sensor Data Logging",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc453_c",
+      "label": "C",
+      "title": "Sneaking Glances",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc453_d",
+      "label": "D",
+      "title": "Go Straight",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc453_e",
+      "label": "E",
+      "title": "Team Division",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc453_f",
+      "label": "F",
+      "title": "Avoid Division",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc453_g",
+      "label": "G",
+      "title": "Copy Query",
+      "url": "https://atcoder.jp/contests/abc453/tasks/abc453_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
