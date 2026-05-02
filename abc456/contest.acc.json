@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc456",
+    "title": "AtCoder Beginner Contest 456",
+    "url": "https://atcoder.jp/contests/abc456"
+  },
+  "tasks": [
+    {
+      "id": "abc456_a",
+      "label": "A",
+      "title": "Dice",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc456_b",
+      "label": "B",
+      "title": "456",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc456_c",
+      "label": "C",
+      "title": "Not Adjacent",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc456_d",
+      "label": "D",
+      "title": "Not Adjacent 2",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc456_e",
+      "label": "E",
+      "title": "Endless Holidays",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc456_f",
+      "label": "F",
+      "title": "Plan Holidays",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc456_g",
+      "label": "G",
+      "title": "Count Holidays",
+      "url": "https://atcoder.jp/contests/abc456/tasks/abc456_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
