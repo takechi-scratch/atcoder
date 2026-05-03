@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "arc218",
+    "title": "AtCoder Regular Contest 218",
+    "url": "https://atcoder.jp/contests/arc218"
+  },
+  "tasks": [
+    {
+      "id": "arc218_a",
+      "label": "A",
+      "title": "Many Sets",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc218_b",
+      "label": "B",
+      "title": "All Minus",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc218_c",
+      "label": "C",
+      "title": "Amidakuji",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc218_d",
+      "label": "D",
+      "title": "I like Increasing",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc218_e",
+      "label": "E",
+      "title": "Reverse and Reverse",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc218_f",
+      "label": "F",
+      "title": "Buckets",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc218_f2",
+      "label": "F2",
+      "title": "Buckets",
+      "url": "https://atcoder.jp/contests/arc218/tasks/arc218_f2",
+      "directory": {
+        "path": "f2",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
