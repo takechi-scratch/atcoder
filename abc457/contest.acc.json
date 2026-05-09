@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc457",
+    "title": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
+    "url": "https://atcoder.jp/contests/abc457"
+  },
+  "tasks": [
+    {
+      "id": "abc457_a",
+      "label": "A",
+      "title": "Array",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_b",
+      "label": "B",
+      "title": "Arrays",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_c",
+      "label": "C",
+      "title": "Long Sequence",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_d",
+      "label": "D",
+      "title": "Raise Minimum",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_e",
+      "label": "E",
+      "title": "Crossing Table Cloth",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_f",
+      "label": "F",
+      "title": "Second Gap",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc457_g",
+      "label": "G",
+      "title": "Catch All Apples",
+      "url": "https://atcoder.jp/contests/abc457/tasks/abc457_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
