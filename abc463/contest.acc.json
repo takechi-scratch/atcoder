@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc463",
+    "title": "AtCoder Beginner Contest 463",
+    "url": "https://atcoder.jp/contests/abc463"
+  },
+  "tasks": [
+    {
+      "id": "abc463_a",
+      "label": "A",
+      "title": "16:9",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc463_b",
+      "label": "B",
+      "title": "Train Reservation",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc463_c",
+      "label": "C",
+      "title": "Tallest at the Moment",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc463_d",
+      "label": "D",
+      "title": "Maximize the Gap",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc463_e",
+      "label": "E",
+      "title": "Roads and Gates",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc463_f",
+      "label": "F",
+      "title": "Senshuraku",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc463_g",
+      "label": "G",
+      "title": "Random Walk Distance",
+      "url": "https://atcoder.jp/contests/abc463/tasks/abc463_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
