@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc464",
+    "title": "Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner Contest 464)",
+    "url": "https://atcoder.jp/contests/abc464"
+  },
+  "tasks": [
+    {
+      "id": "abc464_a",
+      "label": "A",
+      "title": "Decisive Battle",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_b",
+      "label": "B",
+      "title": "Crop",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_c",
+      "label": "C",
+      "title": "Plumage Palette",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_d",
+      "label": "D",
+      "title": "Celester",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_e",
+      "label": "E",
+      "title": "Fill-Rect Query",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_f",
+      "label": "F",
+      "title": "Random Vault Heist",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc464_g",
+      "label": "G",
+      "title": "Celester 2",
+      "url": "https://atcoder.jp/contests/abc464/tasks/abc464_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
