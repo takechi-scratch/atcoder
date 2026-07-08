@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc465",
+    "title": "AtCoder Beginner Contest 465",
+    "url": "https://atcoder.jp/contests/abc465"
+  },
+  "tasks": [
+    {
+      "id": "abc465_a",
+      "label": "A",
+      "title": "Supermajority",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc465_b",
+      "label": "B",
+      "title": "Parking 2",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc465_c",
+      "label": "C",
+      "title": "Reverse Permutation",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc465_d",
+      "label": "D",
+      "title": "X to Y",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc465_e",
+      "label": "E",
+      "title": "Digit Circus",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc465_f",
+      "label": "F",
+      "title": "Sjeltzer?",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc465_g",
+      "label": "G",
+      "title": "Sum of Mex of Mod of Linear",
+      "url": "https://atcoder.jp/contests/abc465/tasks/abc465_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
