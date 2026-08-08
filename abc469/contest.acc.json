@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc469",
+    "title": "AtCoder Beginner Contest 469",
+    "url": "https://atcoder.jp/contests/abc469"
+  },
+  "tasks": [
+    {
+      "id": "abc469_a",
+      "label": "A",
+      "title": "Train Car",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc469_b",
+      "label": "B",
+      "title": "Isolated Seats",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc469_c",
+      "label": "C",
+      "title": "Cantrip",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc469_d",
+      "label": "D",
+      "title": "The Big Two",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc469_e",
+      "label": "E",
+      "title": "Pro Exam Eligibility",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc469_f",
+      "label": "F",
+      "title": "GCD Maximum Spanning Tree",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc469_g",
+      "label": "G",
+      "title": "K-nacci Operations",
+      "url": "https://atcoder.jp/contests/abc469/tasks/abc469_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
