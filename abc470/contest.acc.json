@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc470",
+    "title": "JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)",
+    "url": "https://atcoder.jp/contests/abc470"
+  },
+  "tasks": [
+    {
+      "id": "abc470_a",
+      "label": "A",
+      "title": "Fizz",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc470_b",
+      "label": "B",
+      "title": "Monocolor",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc470_c",
+      "label": "C",
+      "title": "Inc, Dec, Xor",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc470_d",
+      "label": "D",
+      "title": "Inverse and Swap",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc470_e",
+      "label": "E",
+      "title": "Concentration",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc470_f",
+      "label": "F",
+      "title": "Googol Swaps",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc470_g",
+      "label": "G",
+      "title": "Σex",
+      "url": "https://atcoder.jp/contests/abc470/tasks/abc470_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
