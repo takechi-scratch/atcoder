@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc473",
+    "title": "AtCoder Beginner Contest 473",
+    "url": "https://atcoder.jp/contests/abc473"
+  },
+  "tasks": [
+    {
+      "id": "abc473_a",
+      "label": "A",
+      "title": "Second Half Sum",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc473_b",
+      "label": "B",
+      "title": "Old Maid",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc473_c",
+      "label": "C",
+      "title": "Change Schools",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc473_d",
+      "label": "D",
+      "title": "Coefficient Stair",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc473_e",
+      "label": "E",
+      "title": "K-Divisible Subarrays",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc473_f",
+      "label": "F",
+      "title": "A/AB Insertion",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc473_g",
+      "label": "G",
+      "title": "Wipeout",
+      "url": "https://atcoder.jp/contests/abc473/tasks/abc473_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
