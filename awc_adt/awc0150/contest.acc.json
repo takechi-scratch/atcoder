@@ -1,0 +1,174 @@
+{
+  "contest": {
+    "id": "awc0150",
+    "title": "AtCoder Weekday Contest 0150 Beta",
+    "url": "https://atcoder.jp/contests/awc0150"
+  },
+  "tasks": [
+    {
+      "id": "awc0150_a",
+      "label": "A",
+      "title": "Optimization of Circular Security",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_b",
+      "label": "B",
+      "title": "Door Selection",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_c",
+      "label": "C",
+      "title": "Parking Lot Guidance",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_d",
+      "label": "D",
+      "title": "Image Rotation Editor",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_e",
+      "label": "E",
+      "title": "Cherry Blossom Viewing Budget Check",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_f",
+      "label": "F",
+      "title": "Circle of Friends",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_g",
+      "label": "G",
+      "title": "Ball Passing Game",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_h",
+      "label": "H",
+      "title": "Placement of Observation Decks",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_i",
+      "label": "I",
+      "title": "Task Schedule and Priority Filter",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_j",
+      "label": "J",
+      "title": "Traveling Stall",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_k",
+      "label": "K",
+      "title": "Network Installation",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_k",
+      "directory": {
+        "path": "k",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_l",
+      "label": "L",
+      "title": "Fire Station and Emergency Dispatch",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_l",
+      "directory": {
+        "path": "l",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_m",
+      "label": "M",
+      "title": "Adjusting Building Heights",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_m",
+      "directory": {
+        "path": "m",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_n",
+      "label": "N",
+      "title": "Creating a Periodic String",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_n",
+      "directory": {
+        "path": "n",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "awc0150_o",
+      "label": "O",
+      "title": "Maximum Score of a Playlist",
+      "url": "https://atcoder.jp/contests/awc0150/tasks/awc0150_o",
+      "directory": {
+        "path": "o",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
