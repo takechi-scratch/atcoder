@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc229",
+    "title": "AtCoder Regular Contest-- 229",
+    "url": "https://atcoder.jp/contests/arc229"
+  },
+  "tasks": [
+    {
+      "id": "arc229_a",
+      "label": "A",
+      "title": "AtCoder Reverse Contest",
+      "url": "https://atcoder.jp/contests/arc229/tasks/arc229_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc229_b",
+      "label": "B",
+      "title": "Halving Subtraction",
+      "url": "https://atcoder.jp/contests/arc229/tasks/arc229_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc229_c",
+      "label": "C",
+      "title": "Sum of Average 2",
+      "url": "https://atcoder.jp/contests/arc229/tasks/arc229_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc229_d",
+      "label": "D",
+      "title": "Nim_k ?",
+      "url": "https://atcoder.jp/contests/arc229/tasks/arc229_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc229_e",
+      "label": "E",
+      "title": "Taka and Hashi",
+      "url": "https://atcoder.jp/contests/arc229/tasks/arc229_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc229_f",
+      "label": "F",
+      "title": "Angst for All Pairs 2",
+      "url": "https://atcoder.jp/contests/arc229/tasks/arc229_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
