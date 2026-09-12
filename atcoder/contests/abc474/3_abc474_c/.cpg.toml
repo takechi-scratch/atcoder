@@ -1,0 +1,9 @@
+kind = "problem"
+service = "atcoder"
+id = "abc474_c"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_c"
+contest_id = "abc474"
+title = "C - Remove and Append"
+
+[template_checksums]
+"main.py" = "45f3a59da4facb40b4e9292da9c0f88e37131129d9ea6a3df5c633a21c354139"

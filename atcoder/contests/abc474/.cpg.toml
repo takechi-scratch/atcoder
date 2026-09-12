@@ -1,0 +1,47 @@
+kind = "contest"
+service = "atcoder"
+id = "abc474"
+url = "https://atcoder.jp/contests/abc474"
+title = "AtCoder Beginner Contest 474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_a"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_a"
+contest_id = "abc474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_b"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_b"
+contest_id = "abc474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_c"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_c"
+contest_id = "abc474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_d"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_d"
+contest_id = "abc474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_e"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_e"
+contest_id = "abc474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_f"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_f"
+contest_id = "abc474"
+
+[[problems]]
+service = "atcoder"
+id = "abc474_g"
+url = "https://atcoder.jp/contests/abc474/tasks/abc474_g"
+contest_id = "abc474"
