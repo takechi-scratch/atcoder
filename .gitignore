@@ -186,3 +186,4 @@ pahcer_config.toml
 main
 
 competitive-programming-cli/
+.cpg.toml
