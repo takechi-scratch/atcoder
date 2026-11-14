@@ -6,6 +6,7 @@ AtCoder等、競技プログラミングサイトでコードを二次利用す�
 本ライセンスは、以下のサイト内でコードを利用する際に有効です。
 - https://atcoder.jp/
 - https://yukicoder.me/
+- https://www.share-oj.net/
 - https://onlinejudge.u-aizu.ac.jp/
 - https://codeforces.com/
 - https://judge.yosupo.jp/
